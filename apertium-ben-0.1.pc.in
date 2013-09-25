@@ -2,6 +2,6 @@ prefix=@prefix@
 exec_prefix=${prefix}
 libdir=@libdir@
 
-Name: apertium-isl
-Description: Finite-state morphological transducer and constraint grammar for Icelandic 
+Name: apertium-ben
+Description: Finite-state morphological transducer and constraint grammar for Bengali 
 Version: @VERSION@

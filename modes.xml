@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modes>
 
-  <mode name="isl-morph">
+  <mode name="ben-morph">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="isl.automorf.bin"/>
+        <file name="ben.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="isl-gener">
+  <mode name="ben-gener">
     <pipeline>
       <program name="lt-proc -g">
-        <file name="isl.autogen.bin"/>
+        <file name="ben.autogen.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="isl-disam">
+  <mode name="ben-disam">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="isl.automorf.bin"/>
+        <file name="ben.automorf.bin"/>
       </program>
       <program name="cg-proc -w">
-        <file name="isl.rlx.bin"/>
+        <file name="ben.rlx.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="isl-disam-debug">
+  <mode name="ben-disam-debug">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="isl.automorf.bin"/>
+        <file name="ben.automorf.bin"/>
       </program>
       <program name="cg-conv -a -l" />
-      <program name="vislcg3 --trace -g">
-        <file name="apertium-isl.isl.rlx"/>
+      <program name="vbencg3 --trace -g">
+        <file name="apertium-ben.ben.rlx"/>
       </program>
     </pipeline>
   </mode>

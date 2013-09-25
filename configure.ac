@@ -1,7 +1,7 @@
 AC_PREREQ(2.52)
 
-AC_INIT([apertium-isl], [0.1.0], [francis.tyers@gmail.com])
-AM_INIT_AUTOMAKE([apertium-isl], [0.1.0], no-define)
+AC_INIT([apertium-ben], [0.1.0], [francis.tyers@gmail.com])
+AM_INIT_AUTOMAKE([apertium-ben], [0.1.0], no-define)
 AC_PROG_LN_S
 AC_PROG_AWK
 
@@ -82,4 +82,4 @@ then
 fi
 
 
-AC_OUTPUT([Makefile apertium-isl-0.1.pc])
+AC_OUTPUT([Makefile apertium-ben-0.1.pc])
