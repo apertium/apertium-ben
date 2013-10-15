@@ -82,4 +82,4 @@ then
 fi
 
 
-AC_OUTPUT([Makefile apertium-ben-0.1.pc])
+AC_OUTPUT([Makefile apertium-ben.pc])
