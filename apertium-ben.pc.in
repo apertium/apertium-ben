@@ -1,7 +1,5 @@
 prefix=@prefix@
 exec_prefix=@exec_prefix@
-libdir=@libdir@
-dir=@libdir@/apertium/apertium-ben
 srcdir=@datarootdir@/apertium/apertium-ben
 
 Name: apertium-ben
