@@ -5,9 +5,12 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
+/apertium-ben.ben.acx -text
 /apertium-ben.ben.dix -text
 /apertium-ben.ben.rlx -text
 /apertium-ben.pc.in -text
+/apertium-ben.post-ben.dix -text
 /autogen.sh -text
+/ben.prob -text
 /configure.ac -text
 /modes.xml -text
