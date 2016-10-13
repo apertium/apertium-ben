@@ -66,10 +66,9 @@
     <sdef n="inf"          c="Infinitive"/>
     <sdef n="ger"          c="Gerund"/>
     <sdef n="ft"           c="Future"/>
-    <sdef n="pres"         c="Future"/>
     <sdef n="past"         c="Past"/>
     <sdef n="smpl"         c="Simple"/>
-    <sdef n="pres"         c="Future"/>
+    <sdef n="pres"         c="Future???"/>
     <sdef n="cnt"          c="Continuous"/>
     <sdef n="hbtl"         c="Habitual"/>
     <sdef n="prft"         c="Perfect"/>
@@ -1045,8 +1044,8 @@
         </p>
         <par n="enclitic" />
       </e>
-      <e>
-        <p r="LR">
+      <e r="LR">
+        <p>
           <l>টা</l>
           <r><s n="n" /><s n="nt" /><s n="nn" /><s n="sg" /><s n="obj" /><s n="def" /></r>
         </p>
