@@ -1,0 +1,283 @@
+^এটার মত/এতা<det><ind><sg><m>/এটার মত<adj><m><sg><nom>$
+^বিশ্বাস করা হয়/বিবেচনা করা<vblex><tv><impf><m><sg>$
+
+^হয়/আছ​<vbser><pri><p3><sg>$
+^যে/যে<cnjsub>$
+^সূর্য/সূর্য<n><m><sg><nom>/সূর্য<n><m><sg><obl>/সূর্য<n><m><pl><nom>/সূর্য<n><m><pl><obl>$
+^१०००/१०००<num>$
+^বিসি/বিসি<n><m><sg><nom>/বিসি<n><m><sg><obl>/বিসি<n><m><pl><nom>/বিসি<n><m><pl><obl>$
+^থেকে/থেকে<post>/সা<adj><m><sg><obl>/সা<adj><m><pl><nom>/সা<adj><m><pl><obl>$
+^প্রথম/প্রথম<adv>/প্রথম<num><ord><mf>$
+^মহারাষ্ট্র/মহারাষ্ট্র <np><top><sg>$
+^ভিতরে/ভিতরে <post>$
+^কৃষিকাজ/খেলো<vblex><tv><impf><f><sg>/খেলো<vblex><tv><impf><f><pl>/
+খেলো<n><f><sg><nom>/কৃষিকাজ<n><f><sg><obl>/কৃষিকাজ<n><f><pl><nom>/কৃষিকাজ <n><f><pl><obl>$
+^যদি থাকত/আছ​<vbser><impf><f><sg>/আছ​<vbser><impf><f><pl>/হ'ল<vblex><iv><impf><f><sg>/
+হ'ল<vblex><iv><impf><f><pl>$
+^ছিল/আছ​<vbser><impf><p3><f><sg>$
+^কিন্তু/কিন্তু<cnjcoo>$
+^যে/সে<prn><dem><p3><mf><sg><dst><obl>$
+^সময়/সময়<n><m><sg><nom>/সময়<n><m><sg><obl>/সময়<n><m><pl><nom>/সময়<n><m><pl><obl>$
+^আবহাওয়া/আবহাওয়া<n><m><sg><nom>/আবহাওয়া<n><m><sg><obl>/আবহাওয়া<n><m><pl><nom>$
+^ভিতরে/ভিতরে<post>$
+^হঠাৎ/হঠাৎ<adv>$
+^পরিবর্তন/পরিবর্তন<n><m><sg><nom>/পরিবর্তন<n><m><sg><obl>/পরিবর্তন<n><m><pl><nom>$
+^তিনি এসেছিলেন/এসো<vblex><iv><perf><m><sg>$
+^এবং/এবং<cnjcoo>$
+^কৃষি/কৃষি<n><f><sg><nom>/কৃষি<n><f><sg><obl>/কৃষি<n><f><pl><nom>/কৃষি<n><f><pl><obl>$
+^ওপেক্খা কর​/ওপেক্খা কর​<vblex><iv><stem>$
+^গেছে/যাওয়া<vblex><iv><perf><f><sg>$
+^ছিল/ছিল<vbser><impf><p3><f><sg>$
+^।/।<sent>$
+^বছর/বছর<n><m><sg><nom>/বছর<n><m><sg><obl>/বছর<n><m><pl><nom>$
+^५००/५००<num>$
+^বিসি/*বিসি$
+^কাছাকাছি/কাছাকাছি<post>$
+
+^বোম্বাই/বোম্বাই<np><top><sg>$
+^(/(<lpar>$
+^প্রাচীন/প্রাচীন<adj><m><sg><nom>/প্রাচীন<adj><m><sg><obl>/প্রাচীন<adj><m><pl><nom>/প্রাচীন<adj><m><pl><obl>/প্রাচীন<adj><f><sg><nom>/প্রাচীন<adj><f><sg><obl>/প্রাচীন<adj><f><pl><nom>/প্রাচীন<adj><f><pl><obl>$
+^নাম/নাম<n><m><sg><nom>/নাম<n><m><sg><obl>/নাম<n><m><pl><nom>$
+^চার্জ/*চার্জ$
+^,/,<cm>$
+^সোপার/*সোপার$
+^)/)<rpar>$
+^এক/এক<num>/এক<det><ind><sg>$
+^গুরুত্বপূর্ণ/গুরুত্বপূর্ণ<adj><m><sg><nom>/গুরুত্বপূর্ণ<adj><m><sg><obl>/গুরুত্বপূর্ণ<adj><m><pl><nom>/গুরুত্বপূর্ণ<adj><m><pl><obl>/গুরুত্বপূর্ণ<adj><f><sg><nom>/গুরুত্বপূর্ণ<adj><f><sg><obl>/গুরুত্বপূর্ণ<adj><f><pl><nom>/গুরুত্বপূর্ণ<adj><f><pl><obl>$
+^বন্দর/বন্দর<n><m><sg><nom>/বন্দর<n><m><sg><obl>/বন্দর<n><m><pl><nom>$
+^তৈরি করা/হত্তয়া<vblex><tv><gna>$
+^উদিত/*উদিত$
+^ছিল/আছ​<vbser><impf><p3><m><sg>$
+^।/।<sent>$
+^এই/এই<prn><dem><p3><mf><sg><prx><nom>$
+^সোপার/*সোপার$
+^পুরাতন/*পুরাতন$
+^টেস্টামেন্ট/*টেস্টামেন্ট$
+^এর/এর<post><m><sg><gen>$
+^ওফির/*ওফির$
+^ছিল/আছ​<vbser><impf><p3><m><sg>$
+^বা/বা<cnjcoo>$
+^না/না<adv>$
+^এই/এই<prn><dem><p3><mf><sg><prx><obl>$
+^চালু/চালু<post>/চালু<cnjcoo>/চালু<n><m><sg><nom>/চালু<n><m><sg><obl>/চালু<n><m><pl><nom>$
+^পণ্ডিতগণ/পণ্ডিতগণ<n><m><pl><obl>$
+^ভিতরে/ভিতরে<post>$
+^বিতর্ক/বিতর্ক<n><m><sg><nom>/বিতর্ক<n><m><sg><obl>/বিতর্ক<n><m><pl><nom>$
+^হয়/আছ​<vbser><pri><p3><sg>$
+^।/।<sent>$
+^প্রাচীন/প্রাচীন<adj><m><sg><nom>/প্রাচীন<adj><m><sg><obl>/প্রাচীন<adj><m><pl><nom>/প্রাচীন<adj><m><pl><obl>/প্রাচীন<adj><f><sg><nom>/প্রাচীন<adj><f><sg><obl>/প্রাচীন<adj><f><pl><nom>/প্রাচীন<adj><f><pl><obl>$
+^১৬/১৬<num>$
+^মহাজনপদ/*মহাজনপদ$
+^,/,<cm>$
+^মহাজনপদস/*মহাজনপদস$
+^ভিতরে/ভিতরে<post>$
+^আশ্মাক/*আশ্মাক$
+^বা/বা<cnjcoo>$
+^জিজ্ঞাসা করুন/*জিজ্ঞাসা করুন$
+^এর/এর<post><m><sg><gen>$
+^স্থান/স্থান<n><m><sg><nom>/স্থান<n><m><sg><obl>/স্থান<n><m><pl><nom>$
+^আধুনিক/আধুনিক<adj><m><sg><nom>/আধুনিক<adj><m><sg><obl>/আধুনিক<adj><m><pl><nom>/আধুনিক<adj><m><pl><obl>/আধুনিক<adj><f><sg><nom>/আধুনিক<adj><f><sg><obl>/আধুনিক<adj><f><pl><nom>/আধুনিক<adj><f><pl><obl>$
+^আহমেদনগর/*আহমেদনগর$
+^কাছাকাছি/কাছাকাছি<post>$
+
+^হয়/আছ​<vbser><pri><p3><sg>$
+^।/।<sent>$
+^সম্রাট/সম্রাট<n><m><sg><nom>/সম্রাট<n><m><sg><obl>/সম্রাট<n><m><pl><nom>$
+^অশোক/অশোক<np><ant><m><sg>$
+^এর/এর<post><m><pl><gen>$
+^শিলালিপি/শিলালিপি<n><m><sg><nom>/শিলালিপি<n><m><sg><obl>/শিলালিপি<n><m><pl><nom>$
+^খুব/খুব<adv>$
+^মুম্বই/মুম্বই<np><top><sg>$
+^এর/এর<post><m><pl><gen>$
+^বন্ধ/বন্ধ<adv>$
+^পাওয়া/পা<vblex><tv><prs><p2><sg>/পা<vblex><tv><prs><p3><sg>/পা<vblex><tv><perf><m><pl>$
+^গেল/যাওয়া<vblex><iv><perf><m><pl>$
+^আছ​/আছ​<vbser><pri><p3><pl>/আছ​<vbser><pri><p1><pl>$
+^।/।<sent>$
+^./.<sent>$
+
+^ মরিয়ানরা/*মরিয়ানরা$
+^এর/এর<post><m><pl><gen>$
+^ঝরণা/ঝরণা<n><m><sg><nom>/ঝরণা<n><m><sg><obl>/ঝরণা<n><m><pl><nom>/ঝরণা<n><m><pl><obl>$
+^পরে/পরে<post>$
+
+^এখানে/এখানে<adv>$
+^যাদবাস/যাদবাস<n><m><pl><obl>$
+^এর/এর<post><m><sg><gen>$
+^উঠে/উঠে<vblex><iv><perf><m><sg>$
+
+^(/(<lpar>$
+^২৩০/২৩০<num>$
+^বিসি/বিসি<n><m><sg><nom>/বিসি<n><m><sg><obl>/বিসি<n><m><pl><nom>/বিসি<n><m><pl><obl>$
+^)/)<rpar>$
+^।/।<sent>$
+^ অভিযাত্রীরা/*অভিযাত্রীরা$
+^এর সময়/এর সময়<post>$
+
+^অজন্তা/*অজন্তা$
+^গুহা/গুহা<n><f><pl><obl>$
+^এর/এর<post><m><sg><gen>$
+^নির্মাণ/নির্মাণ<n><m><sg><nom>/নির্মাণ<n><m><sg><obl>/নির্মাণ<n><m><pl><nom>/নির্মাণ<n><m><pl><obl>$
+^ঘটবে/ঘটবে<vblex><iv><perf><m><sg>$
+^।/।<sent>$
+^চালুকিয়ান/*চালুকিয়ান$
+^এর/এর<post><m><sg><gen>$
+^শাসন/শাসন<n><m><sg><nom>/শাসন<n><m><sg><obl>/শাসন<n><m><pl><nom>$
+^প্রথম/প্রথম<adv>/প্রথম<num><ord><mf>$
+^বছর/বছর<n><m><sg><nom>/বছর<n><m><sg><obl>/বছর<n><m><pl><nom>$
+^550/550<num>$
+^-/-<guio>$
+^760/760<num>$
+^এবং/এবং<cnjcoo>$
+^আবার/আবার<adv>$
+^973/973<num>$
+^-/-<guio>$
+^1180/1180<num>$
+^থাকলেন/থাকলেন<vaux><perf><m><sg>$
+^।/।<sent>$
+^এর/এর<prn><dem><p3><mf><sg><prx><gen>$
+^মধ্যে/মধ্যে<adv>/মধ্যে<n><m><sg><nom>/মধ্যে<n><m><sg><obl>/মধ্যে<n><m><pl><nom>/মধ্যে<n><m><pl><obl>$
+^রাষ্ট্রকূটাস/*রাষ্ট্রকূটাস$
+^এর/এর<post><m><sg><gen>$
+^শাসন/শাসন<n><m><sg><nom>/শাসন<n><m><sg><obl>/শাসন<n><m><pl><nom>$
+^তিনি এসেছিলেন/এসো<vblex><iv><perf><m><sg>$
+^ছিল/আছ​<vbser><impf><p3><m><sg>$
+^।/।<sent>$
+^./.<sent>$
+
+^আলাউদ্দিন/*আলাউদ্দিন$
+^খিলজি/*খিলজি$
+^তারা/সে<prn><dem><p3><mf><sg><dst><nom>/সে<prn><dem><p3><mf><pl><dst><nom>$
+^প্রথম/প্রথম<num><ord><m>$
+^মুসলিম/মুসলিম<n><m><sg><nom>/মুসলিম<n><m><sg><obl>/মুসলিম<n><m><pl><nom>$
+^শাসক/শাসক<n><m><sg><nom>/শাসক<n><m><sg><obl>/শাসক<n><m><pl><nom>$
+^ছিল/আছ​<vbser><impf><p3><m><sg>$
+^যে কেউ/যে<prn><rel><sg><erg>$
+^আমাদের/আমাদের<vblex><tv><stem>/আমাদের<n><m><sg><nom>/উপরে<prn><pers><p1><m><pos><sg>/আমাদের<vblex><tv><imp><p2><pl>$
+^সাম্রাজ্য/সাম্রাজ্য<n><m><sg><nom>/সাম্রাজ্য<n><m><sg><obl>/সাম্রাজ্য<n><m><pl><nom>/সাম্রাজ্য<n><m><pl><obl>$
+^দক্ষিণ/দক্ষিণ<np><al><sg>$
+^ভিতরে/ভিতরে<post>$
+^মাদুরাই/*মাদুরাই$
+^বিস্তার লাভ/বিস্তার লাভ<vblex><tv><perf><m><sg>$
+
+^দিয়েছে/দাও<vblex><tv><perf><m><sg>$
+^ছিল/আছ​<vbser><impf><p3><m><sg>$
+^।/।<sent>$
+^তার/সে<prn><dem><p3><mf><sg><dst><gen>$
+^পরে/পরে<adv>$
+^মুহাম্মদ সা/মুহাম্মদ সা<np><ant><m><sg>$
+^বিন ছাড়া/বিন ছাড়া<n><m><sg><nom>/বিন ছাড়া<n><m><sg><obl>/বিন ছাড়া<n><m><pl><nom>$
+^তুঘলক/*তুঘলক$
+^(/(<lpar>$
+^১৩২৫/১৩২৫<num>$
+^)/)<rpar>$
+^আছে/আছে<post>$
+^আমার/উপরে<prn><pers><p1><f><pos><sg>$
+^মূলধন/মূলধন<n><f><sg><nom>/মূলধন<n><f><sg><obl>$
+^দিল্লি/দিল্লি<np><top><sg>$
+^থেকে/থেকে<post>/মতন্<adj><m><sg><obl>/মতন্<adj><m><pl><nom>/মতন্<adj><m><pl><obl>$
+^সরিয়ে দিয়ে/অপসারণ<vblex><tv><gna>$
+^দৌলতাবাদ/*দৌলতাবাদ$
+^করেছি/এটা কর<vblex><tv><perf><f><sg>/এটা কর<vblex><tv><perf><f><pl>$
+^।/।<sent>$
+
+^এই/এই<prn><dem><p3><mf><sg><prx><nom>$
+^স্থান/স্থান<n><m><sg><nom>/স্থান<n><m><sg><obl>/স্থান<n><m><pl><nom>$
+^প্রথম/প্রথম<adv>/প্রথম<num><ord><mf>$
+^দেবগিরি/*দেবগিরি$
+^নাম/নাম<n><m><sg><nom>/নাম<n><m><sg><obl>/নাম<n><m><pl><nom>$
+^থেকে/থেকে<post>/মতন্<adj><m><sg><obl>/মতন্<adj><m><pl><nom>/মতন্<adj><m><pl><obl>$
+^বিখ্যাত/বিখ্যাত<adj><m><sg><nom>/বিখ্যাত<adj><m><sg><obl>/বিখ্যাত<adj><m><pl><nom>/বিখ্যাত<adj><m><pl><obl>/বিখ্যাত<adj><f><sg><nom>/বিখ্যাত<adj><f><sg><obl>/বিখ্যাত<adj><f><pl><nom>/বিখ্যাত<adj><f><pl><obl>$
+^ছিল/আছে<vbser><impf><p3><m><sg>$
+^এবং/*এবং$
+^আহমেদনগর/*আহমেদনগর$
+^এর/এর<post><m><pl><gen>$
+^বন্ধ/বন্ধ<adv>$
+^অবস্থা/*অবস্থা$
+^হয়/আছে<vbser><pri><p3><sg>$
+^।/।<sent>$
+^বাহমণি/*বাহমণি$
+^সুলতানি/সুলতানি<n><f><sg><nom>/সুলতানি<n><f><sg><obl>$
+^এর/এর<post><m><pl><gen>$
+^বিচ্ছিন্ন/বিরতি<vblex><iv><inf><obl>$
+^চালু/চালু<post>/চালু<cnjcoo>/চালু<n><m><sg><nom>/চালু<n><m><sg><obl>/চালু<n><m><pl><nom>$
+^এই/এই<prn><dem><p3><mf><sg><prx><nom>$
+^অঞ্চল/অঞ্চল<n><m><sg><nom>/অঞ্চল<n><m><sg><obl>/অঞ্চল<n><m><pl><nom>$
+^গোলকোন্ডা/*গোলকোন্ডা$
+^এর/এর<post><m><pl><gen>$
+^আশাশান/*আশাশান$
+^ভিতরে/ভিতরে<post>$
+^তিনি এসেছিলেন/এসো<vblex><iv><perf><m><sg>$
+^এবং/এবং<cnjcoo>$
+^তার/আছে<prn><dem><p3><mf><sg><dst><gen>$
+^পরে/পরে<adv>$
+^আওরঙ্গজেব/আওরঙ্গজেব<np><ant><m><sg>$
+^এর/এর<post><m><sg><gen>$
+^সংক্ষিপ্ত/সংক্ষিপ্ত<adj><m><sg><nom>/সংক্ষিপ্ত<adj><m><sg><obl>/সংক্ষিপ্ত<adj><m><pl><nom>/সংক্ষিপ্ত<adj><m><pl><obl>/সংক্ষিপ্ত<adj><f><sg><nom>/সংক্ষিপ্ত<adj><f><sg><obl>/সংক্ষিপ্ত<adj><f><pl><nom>/সংক্ষিপ্ত<adj><f><pl><obl>$
+^শাসন/শাসন<n><m><sg><nom>/শাসন<n><m><sg><obl>/শাসন<n><m><pl><nom>$
+^।/।<sent>$
+^তারপর/তারপর<adv>$
+
+^মারাঠা/*মারাঠা$
+^এর/এর<post><f><sg><gen>/এর<post><f><pl><gen>/কর<vblex><tv><perf><f><sg>/কর<vblex><tv><perf><f><pl>$
+^শক্তি/শক্তি<n><f><sg><nom>/শক্তি<n><f><sg><obl>/শক্তি<n><f><pl><nom>/শক্তি<n><f><pl><obl>$
+^ভিতরে/ভিতরে<post>$
+^ধীরে ধীরে/ধীরে ধীরে<adv>$
+^জ্ঞানদান/*জ্ঞানদান$
+^হুঁই/হ'ল<vblex><iv><perf><f><sg>$
+^এবং/এবং<cnjcoo>$
+^আঠারোতম/*আঠারোতম$
+^শতাব্দী/শতাব্দী<n><f><sg><nom>/শতাব্দী<n><f><sg><obl>$
+^এর/এর<post><m><pl><gen>$
+
+^শেষ/শেষ<n><m><sg><nom>/শেষ<n><m><sg><obl>/শেষ<n><m><pl><nom>$ ^দ্বারা/দ্বারা<cnjadv>$
+^মারাঠে/*মারাঠে$
+^আন্দাজ/আন্দাজ<adv>$
+^সমগ্র/পুরো<adj><m><sg><obl>/পুরো<adj><m><pl><nom>/পুরো<adj><m><pl><obl>$
+^মহারাষ্ট্র/মহারাষ্ট্র<np><top><sg>$
+^চালু/চালু<post>/চালু<cnjcoo>/চালু<n><m><sg><nom>/চালু<n><m><sg><obl>/চালু<n><m><pl><nom>$
+^তাই/তাই<adv>/তাই<cnjadv>$
+^ছড়িয়ে পড়া/ছড়িয়ে পড়া<vblex><iv><stem>$
+^কেবল/কেবল<adj><m><sg><nom>/কেবল<adj><m><sg><obl>/কেবল<adj><m><pl><nom>/কেবল<adj><m><pl><obl>/কেবল<adj><f><sg><nom>/কেবল<adj><f><sg><obl>/কেবল<adj><f><pl><nom>/কেবল<adj><f><pl><obl>$
+^ছিল/ছিল<vaux><prs><p2><sg>/ছিল<vaux><prs><p3><sg>/ছিল<vaux><perf><m><pl>$
+^ছিল/আছে<vbser><impf><p3><m><pl>$
+^এবং/এবং<cnjcoo>$
+^তাদের/সে<prn><dem><p3><m><pl><dst><gen>$
+^সাম্রাজ্য/সাম্রাজ্য<n><m><sg><nom>/সাম্রাজ্য<n><m><sg><obl>/সাম্রাজ্য<n><m><pl><nom>/সাম্রাজ্য<n><m><pl><obl>$
+^দক্ষিণ/দক্ষিণ<np><al><sg>$
+^ভিতরে/ভিতরে<post>$
+^কর্ণাটক/কর্ণাটক<np><top><sg>$
+^এর/এর<post><m><pl><gen>$
+^দক্ষিণা/দক্ষিণা<adj><m><sg><nom>/দক্ষিণা<adj><m><sg><obl>/দক্ষিণা<adj><m><pl><nom>/দক্ষিণা<adj><m><pl><obl>/দক্ষিণা<adj><f><sg><nom>/দক্ষিণা<adj><f><sg><obl>/দক্ষিণা<adj><f><pl><nom>/দক্ষিণা<adj><f><pl><obl>$
+^শেষ/টিপ<n><m><sg><obl>/টিপ<n><m><pl><nom>$
+^পর্যন্ত পৌঁছান/পর্যন্ত পৌঁছান<vblex><tv><stem>$
+
+^সর্বস্বান্ত/যাওয়া<vblex><iv><perf><m><sg>$
+^ছিল/আছে<vbser><impf><p3><m><sg>$
+^।/।<sent>$
+^১৮২০/১৮২০<num>$
+^দ্বারা/দ্বারা<cnjadv>$
+^আসো/এসো<vblex><iv><impf><m><pl>$
+^আসো/এসো<vblex><iv><impf><m><pl>$
+^ব্রিটিশেরা/ইংরেজি<n><m><pl><obl>$
+^আছে/আছে<post>$
+^পেশোয়াস/*পেশোয়াস$
+^প্রতি/প্রতি<post>$
+^সম্পূর্ণরূপে/সম্পূর্ণরূপে<adv>$
+^পরাজিত/এটি মারধর<vblex><tv><perf><m><sg>$
+
+^ছিল/আছ​<vbser><impf><p3><m><sg>$
+^এবং/এবং<cnjcoo>$
+^এই/এই<prn><dem><p3><mf><sg><prx><nom>$
+^অঞ্চল/অঞ্চল<n><m><sg><nom>/অঞ্চল<n><m><sg><obl>/অঞ্চল<n><m><pl><nom>$
+^খুব/খুব<adv>$
+^ইংরেজি/ইংরেজি<n><f><sg><nom>/ইংরেজি<n><f><sg><obl>/ইংরেজি<n><f><pl><nom>/ইংরেজি<n><f><pl><obl>$
+^সাম্রাজ্য/সাম্রাজ্য<n><m><sg><nom>/সাম্রাজ্য<n><m><sg><obl>/সাম্রাজ্য<n><m><pl><nom>/সাম্রাজ্য<n><m><pl><obl>$
+^এর/এর<post><m><sg><gen>$
+^অংশ/অংশ<n><m><sg><nom>/অংশ<n><m><sg><obl>/অংশ<n><m><pl><nom>$
+^হত্তয়া/হত্তয়া<vblex><tv><stem>$
+^শেষ করেছেন/শেষ করেছেন<vblex><tv><stem>/শেষ করেছেন<vaux><perf><m><sg>/শেষ করেছেন<vblex><tv><imp><p2><pl>$
+^ছিল/আছ​<vbser><impf><p3><m><sg>$
+^।/।<sent>$
+^./.<sent>$
+
