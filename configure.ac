@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium Bengali], [0.1.0], [francis.tyers@gmail.com], [apertium-ben], [http://wiki.apertium.org/wiki/Apertium-ben])
+AC_INIT([Apertium Bengali], [0.1.0], [francis.tyers@gmail.com], [apertium-ben], [https://wiki.apertium.org/wiki/Apertium-ben])
 AM_INIT_AUTOMAKE
 
 AC_PROG_LN_S
