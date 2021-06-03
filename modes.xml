@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modes>
-
   <mode name="ben-morph" install="yes">
     <pipeline>
       <program name="lt-proc -w">
@@ -34,11 +33,9 @@
         <file name="ben.automorf.bin"/>
       </program>
       <program name="cg-conv -a -l" />
-      <program name="vbencg3 --trace -g">
+      <program name="vislcg3 --trace -g">
         <file name="apertium-ben.ben.rlx"/>
       </program>
     </pipeline>
   </mode>
-
-
 </modes>
