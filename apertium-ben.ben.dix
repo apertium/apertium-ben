@@ -9,7 +9,9 @@
     <sdef n="det"          c="Determiner"/>    
     <sdef n="adv"          c="Adverb"/>    
     <sdef n="post"         c="Postposition"/>    
-    <sdef n="cnjcoo"       c="Co-ordinating conjunction"/>    
+    <sdef n="cnjcoo"       c="Co-ordinating conjunction"/>
+    <sdef n="cnjsub"       c="Subordinating conjunction"/>
+    <sdef n="cnjadv"       c="Adverbial conjunction"/>    
     <sdef n="vblex"        c="Verb"/>     
     <sdef n="al"           c="Altres"/>     
     <sdef n="top"          c="Toponyms"/>     
@@ -58,7 +60,7 @@
     <sdef n="ft"           c="Future"/>    
     <sdef n="past"         c="Past"/>    
     <sdef n="smpl"         c="Simple"/>    
-    <sdef n="pres"         c="Future???"/>    
+    <sdef n="pres"         c="Present"/>    
     <sdef n="cnt"          c="Continuous"/>    
     <sdef n="hbtl"         c="Habitual"/>    
     <sdef n="prft"         c="Perfect"/>    
