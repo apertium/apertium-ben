@@ -553,6 +553,7 @@
       <e><p><l /><r><s n="post" /></r></p></e>    
     </pardef>
 
+
     <!--Pronouns -->    
     <pardef n="কী__prn">      
       <e><p><l /><r><s n="prn" /><s n="p3" /><s n="int" /><s n="nn" /><s n="mf" /><s n="sp" /><s n="nom" /></r></p></e>    
@@ -4551,9 +4552,37 @@
 
     <!--Conjunctions -->    
     <pardef n="ও__cnjcoo">      
-      <e><p><l /><r><s n="cnjcoo" /></r></p></e>
-          
+      <e><p><l /><r><s n="cnjcoo" /></r></p></e>  
     </pardef>
+
+    <pardef n="তারপর__cnjsub">      
+      <e><p><l /><r><s n="cnjsub" /></r></p></e>      
+    </pardef>
+
+    <pardef n="যদিও__cnjsub">      
+      <e><p><l /><r><s n="cnjsub" /></r></p></e>      
+    </pardef>
+
+    <pardef n="মত__cnjsub">      
+      <e><p><l /><r><s n="cnjsub" /></r></p></e>      
+    </pardef>
+
+    <pardef n="যেন__cnjsub">      
+      <e><p><l /><r><s n="cnjsub" /></r></p></e>      
+    </pardef>
+
+    <pardef n="যত দূর সম্ভব__cnjsub">      
+      <e><p><l /><r><s n="cnjsub" /></r></p></e>      
+    </pardef>
+
+    <pardef n="কারণ__cnjsub">      
+      <e><p><l /><r><s n="cnjsub" /></r></p></e>      
+    </pardef>
+
+    <pardef n="এমনকি__cnjsub">      
+      <e><p><l /><r><s n="cnjsub" /></r></p></e>      
+    </pardef>
+
   
   </pardefs>  
   <section id="main" type="standard">
@@ -12841,7 +12870,46 @@
     <e lm="অথবা"><i>অথবা</i><par n="ও__cnjcoo" /></e>    
     <e lm="তবে"><i>তবে</i><par n="ও__cnjcoo" /></e>    
     <e lm="বা"><i>বা</i><par n="ও__cnjcoo" /></e>    
-    <e lm="ও"><i>ও</i><par n="ও__cnjcoo" /></e>  
+    <e lm="ও"><i>ও</i><par n="ও__cnjcoo" /></e>
+    <e lm="যত তাড়াতাড়ি সম্ভব"><i>যত তাড়াতাড়ি সম্ভব</i><par n="যত দূর সম্ভব__cnjsub" /></e>
+    <e lm="যত বেশি সম্ভব"><i>যত বেশি সম্ভব</i><par n="যত দূর সম্ভব__cnjsub" /></e>
+    <e lm="আগে"><i>আগে</i><par n="তারপর__cnjsub" /></e>
+    <e lm="যদিও"><i>যদিও</i><par n="তারপর__cnjsub" /></e>
+    <e lm="যদি"><i>যদি</i><par n="তারপর__cnjsub" /></e>
+    <e lm="শুধমাত্র যদি"><i>শুধমাত্র যদি</i><par n="তারপর__cnjsub" /></e>
+    <e lm="যদি কখনো"><i>যদি কখনো</i><par n="তারপর__cnjsub" /></e>
+    <e lm="তাহলে যদি"><i>তাহলে যদি</i><par n="তারপর__cnjsub" /></e>
+    <e lm="নির্দেশ অনুসারে"><i>নির্দেশ অনুসারে</i><par n="তারপর__cnjsub" /></e>
+    <e lm="এই রকম"><i>এই রকম</i><par n="তারপর__cnjsub" /></e>
+    <e lm="পাছে"><i>পাছে</i><par n="তারপর__cnjsub" /></e>
+    <e lm="এখন"><i>এখন</i><par n="তারপর__cnjsub" /></e>
+    <e lm="এখনথেকে"><i>এখনথেকে</i><par n="তারপর__cnjsub" /></e>
+    <e lm="এখনকি"><i>এখনকি</i><par n="তারপর__cnjsub" /></e>
+    <e lm="এখন কখন"><i>এখন কখন</i><par n="তারপর__cnjsub" /></e>
+    <e lm="অবাস্তব"><i>অবাস্তব</i><par n="তারপর__cnjsub" /></e>
+    <e lm="একদা"><i>একদা</i><par n="তারপর__cnjsub" /></e>
+    <e lm="একসময়"><i>একসময়</i><par n="তারপর__cnjsub" /></e>
+    <e lm="সরবরাহ করা"><i>সরবরাহ করা</i><par n="তারপর__cnjsub" /></e>
+    <e lm="বরং যে"><i>বরং যে</i><par n="তারপর__cnjsub" /></e>
+    <e lm="এখন পর্যন্ত"><i>এখন পর্যন্ত</i><par n="তারপর__cnjsub" /></e>
+    <e lm="যাতে"><i>যাতে</i><par n="তারপর__cnjsub" /></e>
+    <e lm="অনুমান করে"><i>অনুমান করে</i><par n="তারপর__cnjsub" /></e>
+    <e lm="তারপর"><i>তারপর</i><par n="তারপর__cnjsub" /></e>
+    <e lm="পর্যন্ত"><i>পর্যন্ত</i><par n="তারপর__cnjsub" /></e>
+    <e lm="নাহলে"><i>নাহলে</i><par n="তারপর__cnjsub" /></e>
+    <e lm="যতক্ষণ পর্যন্ত"><i>যতক্ষণ পর্যন্ত</i><par n="তারপর__cnjsub" /></e>
+    <e lm="যখন"><i>যখন</i><par n="তারপর__cnjsub" /></e>
+    <e lm="কখন"><i>কখন</i><par n="তারপর__cnjsub" /></e>
+    <e lm="যেখানে"><i>যেখানে</i><par n="তারপর__cnjsub" /></e>
+    <e lm="যেখানে হিসাবে"><i>যেখানে হিসাবে</i><par n="তারপর__cnjsub" /></e>
+    <e lm="যেখানে যদি"><i>যেখানে যদি</i><par n="তারপর__cnjsub" /></e>
+    <e lm="যেখানে কখনো"><i>যেখানে কখনো</i><par n="তারপর__cnjsub" /></e>
+    <e lm="কোন"><i>কোন</i><par n="তারপর__cnjsub" /></e>
+    <e lm="যখন"><i>যখন</i><par n="তারপর__cnjsub" /></e>
+    <e lm="কে"><i>কে</i><par n="তারপর__cnjsub" /></e>
+    <e lm="কেন"><i>কেন</i><par n="তারপর__cnjsub" /></e>
+
+
   </section>  
   <section id="final" type="inconditional">    
       <e><par n="separa"/></e>    
