@@ -4583,6 +4583,12 @@
       <e><p><l /><r><s n="cnjsub" /></r></p></e>      
     </pardef>
 
+    <pardef n="তদনুসারে__cnjadv">      
+      <e><p><l /><r><s n="cnjadv" /></r></p></e>      
+    </pardef>
+
+
+
   
   </pardefs>  
   <section id="main" type="standard">
@@ -12861,8 +12867,14 @@
     <e lm="বিশ"><i>বিশ</i><par n="একশ__num" /></e>    
     <e lm="তিরাশি"><i>তিরাশি</i><par n="একশ__num" /></e>    
     <e lm="তের"><i>তের</i><par n="একশ__num" /></e>
-    <!--Conjunctions -->    
-    <e lm="এবং"><i>এবং</i><par n="ও__cnjcoo" /></e>    
+
+    <!--Conjunctions --> 
+
+    <e lm="এবং"><i>এবং</i><par n="ও__cnjcoo" /></e>
+    <e lm="জন্য"><i>জন্য</i><par n="ও__cnjcoo" /></e> 
+    <e lm="না"><i>না</i><par n="ও__cnjcoo" /></e> 
+    <e lm="তথাপি"><i>তথাপি</i><par n="ও__cnjcoo" /></e> 
+    <e lm="তাই"><i>তাই</i><par n="ও__cnjcoo" /></e>   
     <e lm="আর"><i>আর</i><par n="ও__cnjcoo" /></e>    
     <e lm="কিন্তু"><i>কিন্তু</i><par n="ও__cnjcoo" /></e>    
     <e lm="অথচ"><i>অথচ</i><par n="ও__cnjcoo" /></e>    
@@ -12908,7 +12920,41 @@
     <e lm="যখন"><i>যখন</i><par n="তারপর__cnjsub" /></e>
     <e lm="কে"><i>কে</i><par n="তারপর__cnjsub" /></e>
     <e lm="কেন"><i>কেন</i><par n="তারপর__cnjsub" /></e>
-
+    <e lm="কেন"><i>কেন</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="অতিরিক্তভাবে"><i>অতিরিক্তভাবে</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="এছাড়াও"><i>এছাড়াও</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="যাইহোক"><i>যাইহোক</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="ছাড়াও"><i>ছাড়াও</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="অবশ্যই"><i>অবশ্যই</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="অতএব"><i>অতএব</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="তুলনামূলকভাবে"><i>তুলনামূলকভাবে</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="বিপরীতভাবে"><i>বিপরীতভাবে</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="অন্যকোথাও"><i>অন্যকোথাও</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="সমানভাবে"><i>সমানভাবে</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="শেষ অবধি"><i>শেষ অবধি</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="আবার"><i>আবার</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="অতএব"><i>অতএব</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="অতএব এগিয়ে"><i>অতএব এগিয়ে</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="কিন্তু"><i>কিন্তু</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="এছাড়াও"><i>এছাড়াও</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="তুলনা করলে"><i>তুলনা করলে</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="বিপরীতে"><i>বিপরীতে</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="প্রকৃতপক্ষে"><i>প্রকৃতপক্ষে</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="বুদ্ধিমানের মত"><i>বুদ্ধিমানের মত</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="ইতিমধ্যে"><i>ইতিমধ্যে</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="যথা"><i>যথা</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="তবুও"><i>তবুও</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="এটারপর"><i>এটারপর</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="এখন"><i>এখন</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="অন্যথায়"><i>অন্যথায়</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="বরং"><i>এখন</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="নির্বিশেষে"><i>নির্বিশেষে</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="একইরকমভাবে"><i>একইরকমভাবে</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="ফলস্বরূপ"><i>ফলস্বরূপ</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="বিপরীতে"><i>বিপরীতে</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="আসলে"><i>আসলে</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="নিঃসন্দেহে"><i>নিঃসন্দেহে</i><par n="তদনুসারে__cnjadv" /></e>
+    
 
   </section>  
   <section id="final" type="inconditional">    
