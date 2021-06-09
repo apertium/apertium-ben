@@ -23,7 +23,9 @@
     <sdef n="psint"        c="Partially synthetic"/>    
     <sdef n="comp"         c="Comparative"/>    
     <sdef n="sup"          c="Superlative"/>    
-    <sdef n="def"          c="Definite"/>    
+    <sdef n="def"          c="Definite"/>
+    <sdef n="indef"        c="Indefinite"/>
+    <sdef n="pers"         c="Personal"/>    
     <sdef n="dem"          c="Demonstrative"/>    
     <sdef n="ref"          c="Reflexive"/>    
     <sdef n="rel"          c="Relative"/>    
@@ -31,7 +33,7 @@
     <sdef n="qnt"          c="Quentifier"/>    
     <sdef n="ind"          c="Indicative"/>
     <!--will change this asap to itg -->    
-    <sdef n="int"          c="Interrogative"/>    
+   <!--<sdef n="int"          c="Interrogative"/>-->     
     <sdef n="itg"          c="Interrogative"/>    
     <sdef n="fam"          c="Familiar"/>    
     <sdef n="infml"        c="Informal"/>    
@@ -556,7 +558,19 @@
 
     <!--Pronouns -->    
     <pardef n="কী__prn">      
-      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="int" /><s n="nn" /><s n="mf" /><s n="sp" /><s n="nom" /></r></p></e>    
+      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="itg" /><s n="nn" /><s n="mf" /><s n="sp" /><s n="nom" /></r></p></e>    
+    </pardef>
+
+    <pardef n="অন্য__prn">      
+      <e><p><l /><r><s n="prn" /><s n="indef" /><s n="mf" /><s n="sp" /><s n="nom" /></r></p></e>    
+    </pardef>
+
+    <pardef n="যে কোন কিছু__prn">      
+      <e><p><l /><r><s n="prn" /><s n="indef" /><s n="mf" /><s n="sp" /><s n="obj" /></r></p></e>    
+    </pardef>
+
+    <pardef n="সবকিছু__prn">      
+      <e><p><l /><r><s n="prn" /><s n="indef" /><s n="nn" /><s n="pl" /><s n="obj" /></r></p></e>    
     </pardef>
     
     <pardef n="পরস্পর__prn">      
@@ -572,9 +586,13 @@
     <pardef n="যেটা__prn">      
       <e><p><l /><r><s n="prn" /><s n="p3" /><s n="rel" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>    
     </pardef>
+
+    <pardef n="কাকে__prn">      
+      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>    
+    </pardef>
     
     <pardef n="কিসের__prn">      
-      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="int" /><s n="nn" /><s n="mf" /><s n="sp" /><s n="gen" /></r></p></e>    
+      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="itg" /><s n="nn" /><s n="mf" /><s n="sp" /><s n="gen" /></r></p></e>    
     </pardef>
     
     <pardef n="নিজে/রা__prn">      
@@ -613,8 +631,8 @@
     </pardef>
     
     <pardef n="ক/ি__prn">      
-      <e><p><l>ার</l><r>ি<s n="prn" /><s n="p3" /><s n="int" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e>      
-      <e><p><l>িসে</l><r>ি<s n="prn" /><s n="p3" /><s n="int" /><s n="nn" /><s n="mf" /><s n="sp" /><s n="loc" /></r></p></e>    
+      <e><p><l>ার</l><r>ি<s n="prn" /><s n="p3" /><s n="itg" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e>      
+      <e><p><l>িসে</l><r>ি<s n="prn" /><s n="p3" /><s n="itg" /><s n="nn" /><s n="mf" /><s n="sp" /><s n="loc" /></r></p></e>    
     </pardef>
     
     <pardef n="কিছুটা__prn">      
@@ -630,12 +648,16 @@
     </pardef>
     
     <pardef n="কা/রা__prn">      
-      <e><p><l>দের</l><r>রা<s n="prn" /><s n="p3" /><s n="int" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
-      <e><p><l>রা</l><r>রা<s n="prn" /><s n="p3" /><s n="int" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>    
+      <e><p><l>দের</l><r>রা<s n="prn" /><s n="p3" /><s n="itg" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
+      <e><p><l>রা</l><r>রা<s n="prn" /><s n="p3" /><s n="itg" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>    
     </pardef>
     
     <pardef n="কিছু__prn">      
       <e><p><l /><r><s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>    
+    </pardef>
+
+    <pardef n="তাদেরকে__prn">      
+      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /></r></p></e>    
     </pardef>
     
     <pardef n="সব__prn">      
@@ -783,12 +805,16 @@
     </pardef>
     
     <pardef n="ক/ে__prn">      
-      <e><p><l>ার</l><r>ে<s n="prn" /><s n="p3" /><s n="int" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e>      
-      <e><p><l>ে</l><r>ে<s n="prn" /><s n="p3" /><s n="int" /><s n="aa" /><s n="mf" /><s n="sp" /><s n="nom" /></r></p></e>    
+      <e><p><l>ার</l><r>ে<s n="prn" /><s n="p3" /><s n="itg" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e>      
+      <e><p><l>ে</l><r>ে<s n="prn" /><s n="p3" /><s n="itg" /><s n="aa" /><s n="mf" /><s n="sp" /><s n="nom" /></r></p></e>    
     </pardef>
     
     <pardef n="স্বয়ং__prn">      
       <e><p><l /><r><s n="prn" /><s n="ref" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>    
+    </pardef>
+
+    <pardef n="আমার__prn">      
+      <e><p><l /><r><s n="prn" /><s n="ref" /><s n="mf" /><s n="sg" /></r></p></e>    
     </pardef>
     
     <pardef n="য/িনি__prn">      
@@ -10320,11 +10346,29 @@
     <e lm="সঙ্গেও"><i>সঙ্গেও</i><par n="এর__post" /></e>    
     <e lm="শুধুই"><i>শুধুই</i><par n="এর__post" /></e>    
     <e lm="চাইতে"><i>চাইতে</i><par n="এর__post" /></e>
-    <!--Pronouns -->    
-    <e lm="স্বয়ং"><i>স্বয়ং</i><par n="স্বয়ং__prn" /></e>    
+    <!--Pronouns --> 
+    <e lm="স্বয়ং"><i>স্বয়ং</i><par n="স্বয়ং__prn" /></e>
+    <e lm="যে কোন কিছু"><i>যে কোন কিছু</i><par n="যে কোন কিছু__prn" /></e>
+    <e lm="প্রত্যেক"><i>প্রত্যেক</i><par n="যে কোন কিছু__prn" /></e>
+    <e lm="সবাই"><i>সবাই</i><par n="যে কোন কিছু__prn" /></e>
+    <e lm="কিছু একটা"><i>কিছু একটা</i><par n="যে কোন কিছু__prn" /></e>
+    <e lm="অন্য"><i>অন্য</i><par n="অন্য__prn" /></e>
+    <e lm="যে কেউ"><i>যে কেউ</i><par n="অন্য__prn" /></e>
+    <e lm="কেউনা"><i>কেউনা</i><par n="অন্য__prn" /></e>
+    <e lm="সবকিছু"><i>সবকিছু</i><par n="সবকিছু__prn" /></e>
+    <e lm="বেশ কয়েকটা"><i>বেশ কয়েকটা</i><par n="সবকিছু__prn" /></e>
+    <e lm="কম"><i>কম</i><par n="সবকিছু__prn" /></e>
+    <e lm="উভয়ই"><i>উভয়ই</i><par n="সবকিছু__prn" /></e>
+    <e lm="আমার"><i>আমার</i><par n="আমার__prn" /></e>
+    <e lm="নিজেকে"><i>নিজেকে</i><par n="আমার__prn" /></e>
+    <e lm="নিজেই"><i>নিজেই</i><par n="আমার__prn" /></e>   
     <e lm="অন্যটা"><i>অন্যটা</i><par n="অন্যটা__prn" /></e>    
     <e lm="অপর"><i>অপর</i><par n="অপর__prn" /></e>    
-    <e lm="কিসের"><i>কিসের</i><par n="কিসের__prn" /></e>    
+    <e lm="কিসের"><i>কিসের</i><par n="কিসের__prn" /></e>
+    <e lm="কখন"><i>কখন</i><par n="কিসের__prn" /></e>
+    <e lm="কোথায়"><i>কোথায়</i><par n="কিসের__prn" /></e>
+    <e lm="কেন"><i>কেন</i><par n="কিসের__prn" /></e>
+    <e lm="কার"><i>কার</i><par n="কাকে__prn" /></e>    
     <e lm="অনেকে"><i>অনেকে</i><par n="অনেকে__prn" /></e>    
     <e lm="নিজে নিজে"><i>নিজে<b />নিজে</i><par n="আপনা আপনি__prn" /></e>    
     <e lm="যা"><i>য</i><par n="য/া__prn" /></e>    
@@ -10334,7 +10378,8 @@
     <e lm="কেউ"><i>কেউ</i><par n="কেউ__prn" /></e>    
     <e lm="সেটা"><i>সেটা</i><par n="তা__prn" /></e>    
     <e lm="যেটা"><i>যেটা</i><par n="যেটা__prn" /></e>    
-    <e lm="সকল"><i>সকল</i><par n="সকল__prn" /></e>    
+    <e lm="সকল"><i>সকল</i><par n="সকল__prn" /></e>
+    <e lm="তাদেরকে"><i>তাদেরকে</i><par n="সকল__prn" /></e>    
     <e lm="যিনি"><i>য</i><par n="য/িনি__prn" /></e>    
     <e lm="অন্য"><i>অন্য</i><par n="অন্য__prn" /></e>    
     <e lm="কিছুটা"><i>কিছুটা</i><par n="কিছুটা__prn" /></e>    
@@ -10343,7 +10388,8 @@
     <e lm="কিছুই"><i>কিছুই</i><par n="তা__prn" /></e>    
     <e lm="পরস্পর"><i>পরস্পর</i><par n="পরস্পর__prn" /></e>    
     <e lm="নিজেরা"><i>নিজে</i><par n="নিজে/রা__prn" /></e>    
-    <e lm="কিছু"><i>কিছু</i><par n="কিছু__prn" /></e>    
+    <e lm="কিছু"><i>কিছু</i><par n="কিছু__prn" /></e>
+    <e lm="কোনটা"><i>কোনটা</i><par n="কিছু__prn" /></e>    
     <e lm="আপনা আপনি"><i>আপনা<b />আপনি</i><par n="আপনা আপনি__prn" /></e>    
     <e lm="সব"><i>সব</i><par n="সব__prn" /></e>    
     <e lm="নিজে"><i>নিজে</i><par n="নিজে__prn" /></e>    
@@ -12884,8 +12930,10 @@
     <e lm="বা"><i>বা</i><par n="ও__cnjcoo" /></e>    
     <e lm="ও"><i>ও</i><par n="ও__cnjcoo" /></e>
     <e lm="যত তাড়াতাড়ি সম্ভব"><i>যত তাড়াতাড়ি সম্ভব</i><par n="যত দূর সম্ভব__cnjsub" /></e>
+    <e lm="যত দূর সম্ভব"><i>যত দূর সম্ভব</i><par n="যত দূর সম্ভব__cnjsub" /></e>
     <e lm="যত বেশি সম্ভব"><i>যত বেশি সম্ভব</i><par n="যত দূর সম্ভব__cnjsub" /></e>
     <e lm="আগে"><i>আগে</i><par n="তারপর__cnjsub" /></e>
+    <e lm="তারপর"><i>তারপর</i><par n="তারপর__cnjsub" /></e>
     <e lm="যদিও"><i>যদিও</i><par n="তারপর__cnjsub" /></e>
     <e lm="যদি"><i>যদি</i><par n="তারপর__cnjsub" /></e>
     <e lm="শুধমাত্র যদি"><i>শুধমাত্র যদি</i><par n="তারপর__cnjsub" /></e>
@@ -12921,6 +12969,7 @@
     <e lm="কে"><i>কে</i><par n="তারপর__cnjsub" /></e>
     <e lm="কেন"><i>কেন</i><par n="তারপর__cnjsub" /></e>
     <e lm="কেন"><i>কেন</i><par n="তদনুসারে__cnjadv" /></e>
+    <e lm="তদনুসারে"><i>তদনুসারে</i><par n="তদনুসারে__cnjadv" /></e>
     <e lm="অতিরিক্তভাবে"><i>অতিরিক্তভাবে</i><par n="তদনুসারে__cnjadv" /></e>
     <e lm="এছাড়াও"><i>এছাড়াও</i><par n="তদনুসারে__cnjadv" /></e>
     <e lm="যাইহোক"><i>যাইহোক</i><par n="তদনুসারে__cnjadv" /></e>
