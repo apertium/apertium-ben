@@ -87,27 +87,6 @@
       <e><re>[0-9]+([.,][0-9]+)?</re><p><l/><r><s n="num"/></r></p></e>    
     </pardef>
 
-    <pardef n="guio">
-      <e><re>[—\-]+</re><p><l></l><r><s n="guio"/></r></p></e>
-    </pardef>
-
-    <pardef n="coma">
-      <e><re>,</re><p><l></l><r><s n="cm"/></r></p></e>
-    </pardef>
-
-    <pardef n="quotes">
-      <e><re>[«]+</re><p><l></l><r><s n="lquot"/></r></p></e>
-      <e><re>[»]+</re><p><l></l><r><s n="rquot"/></r></p></e>
-    </pardef>
-
-    <pardef n="paresq">
-      <e><re>[\(\[]</re><p><l></l><r><s n="lpar"/></r></p></e>
-    </pardef>
-
-    <pardef n="pardret">
-      <e><re>[\)\]]</re><p><l></l><r><s n="rpar"/></r></p></e>
-    </pardef>
-
     <!--Enclitics -->    
     <pardef n="enclitic">
     <!--passthrough -->      
@@ -562,10 +541,6 @@
       <e><p><l /><r><s n="prn" /><s n="p3" /><s n="itg" /><s n="nn" /><s n="mf" /><s n="sp" /><s n="nom" /></r></p></e>    
     </pardef>
 
-    <pardef n="অন্য__prn">      
-      <e><p><l /><r><s n="prn" /><s n="indef" /><s n="mf" /><s n="sp" /><s n="nom" /></r></p></e>    
-    </pardef>
-
     <pardef n="যে কোন কিছু__prn">      
       <e><p><l /><r><s n="prn" /><s n="indef" /><s n="mf" /><s n="sp" /><s n="obj" /></r></p></e>    
     </pardef>
@@ -800,9 +775,9 @@
     
     <pardef n="অন্য__prn">      
       <e><p><l>ের</l><r><s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
-      <e><p><l>গুলো</l><r><s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>      
+      <e><p><l>গুলো</l><r><s n="prn" /><s n="indef" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>      
       <e><p><l>কে</l><r><s n="prn" /><s n="p3" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="obj" /></r></p></e>      
-      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="an" /><s n="mf" /><s n="sp" /><s n="nom" /></r></p></e>    
+      <e><p><l /><r><s n="prn" /><s n="indef" /><s n="p3" /><s n="an" /><s n="mf" /><s n="sp" /><s n="nom" /></r></p></e>    
     </pardef>
     
     <pardef n="ক/ে__prn">      
