@@ -53,7 +53,7 @@ If you are in the source directory after running make, the following
 commands should work:
 
 ```
-...
+echo "पांच" | apertium -d . hin-ben
 ```
 
 ```
