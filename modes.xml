@@ -16,18 +16,7 @@
     </pipeline>
   </mode>
 
-  <mode name="ben-disam" install="yes">
-    <pipeline>
-      <program name="lt-proc -w">
-        <file name="ben.automorf.bin"/>
-      </program>
-      <program name="cg-proc -w">
-        <file name="ben.rlx.bin"/>
-      </program>
-    </pipeline>
-  </mode>
-
-  <mode name="ben-disam-debug">
+  <mode name="ben-disam">
     <pipeline>
       <program name="lt-proc -w">
         <file name="ben.automorf.bin"/>
