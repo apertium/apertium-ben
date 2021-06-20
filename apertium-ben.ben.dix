@@ -72,19 +72,58 @@
     <sdef n="pcnd"         c="Conditional Participle"/>    
     <sdef n="imp"          c="Imperative"/>    
     <sdef n="sent"         c="End of sentence marker"/>  
+    <sdef n="stem"  c="stem"/>
+	  <sdef n="ord"  c="ordinal"/>
+	  <sdef n="percent"  c="Percent"/>
+    <sdef n="mfn"/>
+    <sdef n="abbr"/>
+    <sdef n="cm"         c="Comma"/>
+    <sdef n="lpar"       c="Left parenthesis"/>
+    <sdef n="rpar"       c="Right parenthesis"/>
+    <sdef n="lquot"      c="Left quote"/>
+    <sdef n="rquot"      c="Right quote"/>
+    <sdef n="guio"       c="Hyphen"/>
+
 
   </sdefs>  
   <pardefs>
-    <!--Punctuation -->    
-    <pardef n="separa">      
-      <e><re>[.\?;:!৷।]</re><p><l/><r><s n="sent"/></r></p></e>    
-    </pardef>
+    <!-- SECTION: Punctuation -->    
     
     <pardef n="numerals">      
       <e><re>[০১২৩৪৫৬৭৮৯]+</re><p><l/><r><s n="num"/></r></p></e>      
       <e><re>[০১২৩৪৫৬৭৮৯]+</re><p><l>টা</l><r><s n="num"/></r></p></e>      
       <e><re>[০১২৩৪৫৬৭৮৯]+</re><p><l>টি</l><r><s n="num"/></r></p></e>      
       <e><re>[0-9]+([.,][0-9]+)?</re><p><l/><r><s n="num"/></r></p></e>    
+       
+      <e>       <re>[0-9]+</re><p><l></l><r><s n="num"/></r></p></e>
+      <e>       <re>[০১২৩৪৫৬৭৮৯]+([.,][০১২৩৪৫৬৭৮৯]+)?</re><p><l/><r><s n="num"/></r></p></e>
+      <e>       <re>([৫৬৭৮৯]|[১২৩৪৫৬৭৮৯][০১২৩৪৫৬৭৮৯]+)</re><p><l><b/>তম</l><r><s n="num"/></r></p></e>
+      <e>       <re>[০১২৩৪৫৬৭৮৯]+([.,][০১২৩৪৫৬৭৮৯]+)?%</re><p><l></l><r><s n="num"/><s n="percent"/></r></p></e>
+    </pardef>
+
+    <pardef n="separa">
+      <e><re>[.\?;:!।॥]</re><p><l/><r><s n="sent"/></r></p></e>
+    </pardef>
+
+    <pardef n="guio">
+      <e><re>[—\-]+</re><p><l></l><r><s n="guio"/></r></p></e>
+    </pardef>
+
+    <pardef n="coma">
+      <e><re>,</re><p><l></l><r><s n="cm"/></r></p></e>
+    </pardef>
+
+    <pardef n="quotes">
+      <e><re>[«]+</re><p><l></l><r><s n="lquot"/></r></p></e>
+      <e><re>[»]+</re><p><l></l><r><s n="rquot"/></r></p></e>
+    </pardef>
+
+    <pardef n="paresq">
+      <e><re>[\(\[]</re><p><l></l><r><s n="lpar"/></r></p></e>
+    </pardef>
+
+    <pardef n="pardret">
+      <e><re>[\)\]]</re><p><l></l><r><s n="rpar"/></r></p></e>
     </pardef>
 
     <!--Enclitics -->    
@@ -6974,7 +7013,8 @@
     <e lm="খুশি"><i>খুশি</i><par n="মে__n_mf" /></e>    
     <e lm="আয়"><i>আয়</i><par n="গড়__n_mf" /></e>    
     <e lm="ম্যালেরিয়া"><i>ম্যালেরিয়া</i><par n="দশা__n_nt" /></e>    
-    <e lm="ঘোড়া"><i>ঘোড়া</i><par n="গরু__n_mf" /></e>    
+    <e lm="ঘোড়া"><i>ঘোড়া</i><par n="গরু__n_mf" /></e>
+    <e lm="মানুষরা"><i>মানুষরা</i><par n="গরু__n_mf" /></e> 
     <e lm="পাতা"><i>পাতা</i><par n="দশা__n_nt" /></e>    
     <e lm="অগ্রগতি"><i>অগ্রগতি</i><par n="সি__n_nt" /></e>    
     <e lm="অবদান"><i>অবদান</i><par n="ঝড়__n_nt" /></e>    
@@ -7779,7 +7819,7 @@
     <e lm="স্বীকারোক্তি"><i>স্বীকারোক্তি</i><par n="ওসি__n_mf" /></e>    
     <e lm="ধস"><i>ধস</i><par n="ঝড়__n_nt" /></e>    
     <e lm="ঝামেলা"><i>ঝামেলা</i><par n="দশা__n_nt" /></e>    
-    <e lm="মানুষ"><i>মানুষ</i><par n="জজ__n_mf" /></e>    
+    <e lm="মানুষ"><i>মানুষ</i><par n="জজ__n_mf" /></e>  
     <e lm="ঈগল"><i>ঈগল</i><par n="গড়__n_mf" /></e>    
     <e lm="আদা"><i>আদা</i><par n="দশা__n_nt" /></e>    
     <e lm="দূর"><i>দূর</i><par n="গড়__n_mf" /></e>    
