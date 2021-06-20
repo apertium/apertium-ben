@@ -31,9 +31,7 @@
     <sdef n="rel"          c="Relative"/>    
     <sdef n="rec"          c="Reciprocal"/>    
     <sdef n="qnt"          c="Quentifier"/>    
-    <sdef n="ind"          c="Indicative"/>
-    <!--will change this asap to itg -->    
-   <!--<sdef n="int"          c="Interrogative"/>-->     
+    <sdef n="ind"          c="Indicative"/>   
     <sdef n="itg"          c="Interrogative"/>    
     <sdef n="fam"          c="Familiar"/>    
     <sdef n="infml"        c="Informal"/>    
@@ -94,11 +92,10 @@
       <e><re>[০১২৩৪৫৬৭৮৯]+</re><p><l>টা</l><r><s n="num"/></r></p></e>      
       <e><re>[০১২৩৪৫৬৭৮৯]+</re><p><l>টি</l><r><s n="num"/></r></p></e>      
       <e><re>[0-9]+([.,][0-9]+)?</re><p><l/><r><s n="num"/></r></p></e>    
-       
-      <e>       <re>[0-9]+</re><p><l></l><r><s n="num"/></r></p></e>
-      <e>       <re>[০১২৩৪৫৬৭৮৯]+([.,][০১২৩৪৫৬৭৮৯]+)?</re><p><l/><r><s n="num"/></r></p></e>
-      <e>       <re>([৫৬৭৮৯]|[১২৩৪৫৬৭৮৯][০১২৩৪৫৬৭৮৯]+)</re><p><l><b/>তম</l><r><s n="num"/></r></p></e>
-      <e>       <re>[০১২৩৪৫৬৭৮৯]+([.,][০১২৩৪৫৬৭৮৯]+)?%</re><p><l></l><r><s n="num"/><s n="percent"/></r></p></e>
+      <e><re>[0-9]+</re><p><l></l><r><s n="num"/></r></p></e>
+      <e><re>[০১২৩৪৫৬৭৮৯]+([.,][০১২৩৪৫৬৭৮৯]+)?</re><p><l/><r><s n="num"/></r></p></e>
+      <e><re>([৫৬৭৮৯]|[১২৩৪৫৬৭৮৯][০১২৩৪৫৬৭৮৯]+)</re><p><l><b/>তম</l><r><s n="num"/></r></p></e>
+      <e><re>[০১২৩৪৫৬৭৮৯]+([.,][০১২৩৪৫৬৭৮৯]+)?%</re><p><l></l><r><s n="num"/><s n="percent"/></r></p></e>
     </pardef>
 
     <pardef n="separa">
