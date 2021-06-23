@@ -13103,7 +13103,12 @@
 
   </section>  
   <section id="final" type="inconditional">    
-      <e><par n="separa"/></e>    
-      <e><par n="numerals"/></e>  
+      <e><par n="separa"/></e>
+      <e><par n="guio"/></e>
+      <e><par n="coma"/></e>
+      <e><par n="quotes"/></e>
+      <e><par n="paresq"/></e>
+      <e><par n="pardret"/></e>
+      <e><par n="numerals"/></e>
   </section>
 </dictionary>
