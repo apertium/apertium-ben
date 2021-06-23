@@ -8188,6 +8188,7 @@
     <e lm="লুট"><i>লুট</i><par n="গড়__n_mf" /></e>    
     <e lm="শ্রেণী"><i>শ্রেণী</i><par n="সি__n_nt" /></e>    
     <e lm="চলা"><i>চলা</i><par n="ডা__n_mf" /></e>    
+    <e lm="মেনে"><i>মেনে</i><par n="ডা__n_mf" /></e>
     <e lm="প্রশাসক"><i>প্রশাসক</i><par n="জজ__n_mf" /></e>    
     <e lm="পণ্য"><i>পণ্য</i><par n="গড়__n_mf" /></e>    
     <e lm="অধীন"><i>অধীন</i><par n="ঝড়__n_nt" /></e>    
@@ -12979,6 +12980,7 @@
     <!--Conjunctions --> 
 
     <e lm="অর্থাৎ"><i>অর্থাৎ</i><par n="ও__cnjcoo" /></e>
+    <e lm="কারনে"><i>কারনে</i><par n="ও__cnjcoo" /></e>
     <e lm="আরো"><i>আরো</i><par n="ও__cnjcoo" /></e>
     <e lm="ফলে"><i>ফলে</i><par n="ও__cnjcoo" /></e>
     <e lm="আর"><i>আর</i><par n="ও__cnjcoo" /></e>
