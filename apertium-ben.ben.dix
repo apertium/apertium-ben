@@ -4577,7 +4577,7 @@
     </pardef>
     
     <pardef n="এক__num">      
-      <e ><p><l /><r><s n="num" /><s n="an" /></r></p></e>      
+      <e ><p><l/><r><s n="num" /><s n="an" /></r></p></e>      
       <e r="LR"><p><l>টা</l><r><s n="num" /><s n="an" /></r></p></e>      
       <e r="LR"><p><l>টি</l><r><s n="num" /><s n="an" /></r></p></e>      
       <e r="LR"><p><l>টা</l><r><s n="num" /><s n="nn" /></r></p></e>      
