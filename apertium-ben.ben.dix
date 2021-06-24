@@ -4544,6 +4544,10 @@
       <e><p><l>ামেন</l><r>াম<s n="vblex" /><s n="pres" /><s n="smpl" /><s n="p2" /><s n="pol" /></r></p><par n="enclitic" /></e>    
     </pardef>
 
+    <pardef n="হওয়া__vblex">      
+      <e><p><l /><r><s n="vblex" /><s n="ger" /></r></p></e>    
+    </pardef>
+
     <!--Determiners -->    
     <pardef n="এর__det">      
       <e><p><l /><r><s n="det" /><s n="gen" /></r></p></e>    
@@ -7411,7 +7415,7 @@
     <e lm="সদস্য"><i>সদস্য</i><par n="জজ__n_mf" /></e>    
     <e lm="ক্যাডাররা"><i>ক্যাডাররা</i><par n="ডা__n_mf" /></e>    
     <e lm="ইউ"><i>ইউ</i><par n="বই__n_nt" /></e>    
-    <e lm="আসা"><i>আসা</i><par n="ডা__n_mf" /></e>    
+    <e lm="আসা"><i>আসা</i><par n="/আন__vblex" /></e>    
     <e lm="সহনশীলতা"><i>সহনশীলতা</i><par n="দশা__n_nt" /></e>    
     <e lm="বিপ্লবী"><i>বিপ্লবী</i><par n="তারকা__n_mf" /></e>    
     <e lm="টেলিফোন"><i>টেলিফোন</i><par n="গড়__n_mf" /></e>    
@@ -8735,7 +8739,7 @@
     <e lm="পশ্চিম"><i>পশ্চিম</i><par n="গড়__n_mf" /></e>    
     <e lm="জননী"><i>জননী</i><par n="মা__n_f" /></e>    
     <e lm="জানা"><i>জানা</i><par n="ডা__n_mf" /></e>    
-    <e lm="হওয়া"><i>হওয়া</i><par n="ডা__n_mf" /></e>    
+    <e lm="হওয়া"><i>হওয়া</i><par n="হওয়া__vblex" /></e>    
     <e lm="বিক্ষোভ"><i>বিক্ষোভ</i><par n="গড়__n_mf" /></e>    
     <e lm="ডলার"><i>ডলার</i><par n="গড়__n_mf" /></e>
     <!--nouns added @ Thu Jun 16 18:04:22 UTC 2011 -->    
@@ -10313,6 +10317,7 @@
     <e lm="ভাটা"><i>ভাটা</i><par n="দশা__n_nt"/></e>
     <!--Postpositions -->    
     <e lm="থেকে"><i>থেকে</i><par n="এর__post" /></e>
+    <e lm="হটে"><i>হটে</i><par n="এর__post" /></e>
     <e lm="পরবর্তীতে"><i>পরবর্তীতে</i><par n="এর__post" /></e>       
     <e lm="পরে"><i>পরে</i><par n="এর__post" /></e>    
     <e lm="বিরুদ্ধে"><i>বিরুদ্ধে</i><par n="এর__post" /></e>    
