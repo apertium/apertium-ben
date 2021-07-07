@@ -1,0 +1,7 @@
+^এটার মত/এই ভাবে<det><ind><sg><m>এই ভাবে/<adj><m><sg><nom>$
+^বিবেচনা করা / অনুমিত<vblex><tv><impf><m><sg>$
+
+^হয় / হতে<vbser><pri><p3><sg>$
+^যে/যে<cnjsub>$
+^রৌদ্র/সূর্য<n><m><sg><nom>/সূর্য<n><m><sg><obl>/सन<n><m><pl><nom>/सन<n><m><pl><obl>$
+^१०००/१०००<num>$
