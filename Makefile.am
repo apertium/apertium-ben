@@ -12,7 +12,6 @@ TARGETS_COMMON =			\
 	$(LANG1).automorf.att.gz	\
 	$(LANG1).autogen.bin		\
 	$(LANG1).autogen.att.gz		\
-	$(LANG1).autopgen.bin		\
 	$(LANG1).rlx.bin
 
 # This include defines goals for install-modes, .deps/.d, autobil.prefixes and .mode files:
@@ -36,9 +35,6 @@ $(LANG1).autogen.att.gz: $(LANG1).autogen.bin
 $(LANG1).automorf.att.gz: $(LANG1).automorf.bin
 	lt-print $< | gzip -9 -c -n > $@
 
-$(LANG1).autopgen.bin: $(BASENAME).post-$(LANG1).dix
-	lt-comp lr $< $@
-
 ###############################################################################
 ## Disambiguation rules
 ###############################################################################
@@ -52,7 +48,6 @@ $(LANG1).rlx.bin: $(BASENAME).$(LANG1).rlx $(CGCOMP)
 EXTRA_DIST=$(BASENAME).$(LANG1).dix		\
 		$(BASENAME).$(LANG1).acx	\
 		$(BASENAME).$(LANG1).rlx	\
-		$(BASENAME).post-$(LANG1).dix	\
 		$(LANG1).prob			\
 		modes.xml
 
@@ -83,7 +78,6 @@ install-data-local: install-modes
 	test -d $(DESTDIR)$(apertium_ben_srcdir) || mkdir -p $(DESTDIR)$(apertium_ben_srcdir)
 	$(INSTALL_DATA) $(BASENAME).$(LANG1).dix $(DESTDIR)$(apertium_ben_srcdir)
 	$(INSTALL_DATA) $(BASENAME).$(LANG1).rlx $(DESTDIR)$(apertium_ben_srcdir)
-	$(INSTALL_DATA) $(BASENAME).post-$(LANG1).dix $(DESTDIR)$(apertium_ben_srcdir)
 
 CLEANFILES = $(TARGETS_COMMON)
 clean-local:
