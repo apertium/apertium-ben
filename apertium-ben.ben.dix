@@ -4635,6 +4635,8 @@
   </pardefs>  
   <section id="main" type="standard">
     <!--Adjectives -->   
+    
+    <e lm="ই"><i>ই</i><par n="টক__adj" /></e>
     <e lm="আজন্ম​"><i>আজন্ম​</i><par n="টক__adj" /></e>
     <e lm="উচিত"><i>উচিত</i><par n="টক__adj" /></e>
     <e lm="ঋনী"><i>ঋনী</i><par n="টক__adj" /></e>
@@ -10386,7 +10388,8 @@
     <e lm="ভিত"><i>ভিত</i><par n="ঝড়__n_nt"/></e>    
     <e lm="ভার্সন"><i>ভার্সন</i><par n="ঝড়__n_nt"/></e>    
     <e lm="ভাটা"><i>ভাটা</i><par n="দশা__n_nt"/></e>
-    <!--Postpositions -->    
+    <!--Postpositions --> 
+   
     <e lm="আছে"><i>আছে</i><par n="এর__post" /></e>
     <e lm="থেকে"><i>থেকে</i><par n="এর__post" /></e>
     <e lm="হটে"><i>হটে</i><par n="এর__post" /></e>
