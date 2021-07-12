@@ -4636,6 +4636,7 @@
   <section id="main" type="standard">
     <!--Adjectives -->   
     
+    <e lm="সুন্দরি"><i>সুন্দরি</i><par n="মহিলা__adj" /></e> 
     <e lm="দলিত"><i>দলিত</i><par n="টক__adj" /></e>
     <e lm="সংচিতি"><i>সংচিতি</i><par n="টক__adj" /></e>
     <e lm="উপলব্ধ"><i>উপলব্ধ</i><par n="টক__adj" /></e>
