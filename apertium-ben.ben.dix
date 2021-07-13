@@ -4636,7 +4636,7 @@
   <section id="main" type="standard">
     <!--Adjectives -->   
     
-    <e lm="সুন্দরি"><i>সুন্দরি</i><par n="মহিলা__adj" /></e> 
+    <e lm="সুন্দরী"><i>সুন্দরী</i><par n="মহিলা__adj" /></e> 
     <e lm="দলিত"><i>দলিত</i><par n="টক__adj" /></e>
     <e lm="সংচিতি"><i>সংচিতি</i><par n="টক__adj" /></e>
     <e lm="উপলব্ধ"><i>উপলব্ধ</i><par n="টক__adj" /></e>
@@ -13008,7 +13008,8 @@
     
 
 
-    <!--Numerals -->    
+    <!--Numerals -->   
+    <e lm="চার"><i>চার</i><par n="এক__num" /></e> 
     <e lm="চৌদ্দ"><i>চৌদ্দ</i><par n="একশ__num" /></e>    
     <e lm="বায়ান্ন"><i>বায়ান্ন</i><par n="একশ__num" /></e>    
     <e lm="সাতাশ"><i>সাতাশ</i><par n="একশ__num" /></e>    
