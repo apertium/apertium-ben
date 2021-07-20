@@ -1,0 +1,20 @@
+[6BgUz9w_RkEv#0] ^তারলো/*তারলো$
+[/6BgUz9w_RkEv]
+[QbQ-3BRfezBw#0] ^আাকব্/*আাকব্$
+[/QbQ-3BRfezBw]
+[af9b1Rak2wcT#0] ^১/১<num>$^ী/*ী$
+[/af9b1Rak2wcT]
+[dQP8D2VaHrbh#0] ^বচনাইঞেরয়টারে/*বচনাইঞেরয়টারে$
+[/dQP8D2VaHrbh]
+[io3oI9XtPhJ0#0] ^?/?<sent>$
+[/io3oI9XtPhJ0]
+[j2SzDTRegFDp#0] ^দখলি/*দখলি$
+[/j2SzDTRegFDp]
+[jc38tTh8SVOm#0] ^।/।<sent>$
+[/jc38tTh8SVOm]
+[nQPVyWoe_yn0#0] ^॥/॥<sent>$
+[/nQPVyWoe_yn0]
+[u3IIvJtdfATx#0] ^!/!<sent>$
+[/u3IIvJtdfATx]
+[ul7FHQekrA6V#0] ^)/)<rpar>$
+[/ul7FHQekrA6V]
