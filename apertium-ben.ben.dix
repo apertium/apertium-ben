@@ -806,7 +806,7 @@
       <!-- p3.pol.aa.mf.pl -->
       <e><p><l>তাঁদের</l><r>তাঁরা<s n="prn" /><s n="p3" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
       <e><p><l>তাঁরা</l><r>তাঁরা<s n="prn" /><s n="p3" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>      
-      <e r="LR"><p><l>তাঁদের</l><r>তাঁরা<s n="prn" /><s n="p3" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>      
+      <e r="RL"><p><l>তাঁদের</l><r>তাঁরা<s n="prn" /><s n="p3" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>      
       <e><p><l>তাঁদেরকে</l><r>তাঁরা<s n="prn" /><s n="p3" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>    
     </pardef>
     
