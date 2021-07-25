@@ -13,7 +13,11 @@
     <sdef n="cnjcoo"       c="Co-ordinating conjunction"/>
     <sdef n="cnjsub"       c="Subordinating conjunction"/>
     <sdef n="cnjadv"       c="Adverbial conjunction"/>    
-    <sdef n="vblex"        c="Verb"/>     
+    <sdef n="vblex"        c="Verb"/>  
+    <sdef n="vbser"        c="'To be' verb"/>
+    <sdef n="vbmod"        c="Modal verb"/>
+    <sdef n="vaux"         c="Auxiliary verb"/>   
+    <sdef n="vbhaver"      c="'To have' verb"/> 
     <sdef n="al"           c="Altres"/>     
     <sdef n="top"          c="Toponyms"/>     
     <sdef n="ant"          c="Antroponyms"/>     
@@ -34,7 +38,9 @@
     <sdef n="ind"          c="Indicative"/>   
     <sdef n="itg"          c="Interrogative"/>    
     <sdef n="fam"          c="Familiar"/>    
-    <sdef n="infml"        c="Informal"/>    
+    <sdef n="infml"        c="Informal"/> 
+    <sdef n="frm"	         c="formal"/>
+    <sdef n="impf"         c=" Imperfective participle"/>   
     <sdef n="pol"          c="Polite"/>    
     <sdef n="m"            c="Masculine"/>    
     <sdef n="f"            c="Feminine"/>    
@@ -51,14 +57,18 @@
     <sdef n="nom"          c="Nominative"/>    
     <sdef n="obj"          c="Objective"/>    
     <sdef n="gen"          c="Genitive"/>    
-    <sdef n="loc"          c="Locative"/>    
+    <sdef n="loc"          c="Locative"/>  
+    <sdef n="fut"          c="Future"/>  
     <sdef n="p1"           c="First person"/>    
     <sdef n="p2"           c="Second person"/>    
     <sdef n="p3"           c="Third person"/>    
     <sdef n="impers"       c="Impersonal"/>    
     <sdef n="inf"          c="Infinitive"/>    
     <sdef n="ger"          c="Gerund"/>    
-    <sdef n="ft"           c="Future"/>    
+    <sdef n="ft"           c="Future"/>
+    <sdef n="agnt"         c="agentive"/> 
+    <sdef n="obl"          c="Oblique"/> 
+    <sdef n="gna"          c="verbal adverb"/>  
     <sdef n="past"         c="Past"/>    
     <sdef n="smpl"         c="Simple"/>    
     <sdef n="pres"         c="Present"/>    
@@ -70,17 +80,17 @@
     <sdef n="pcnd"         c="Conditional Participle"/>    
     <sdef n="imp"          c="Imperative"/>    
     <sdef n="sent"         c="End of sentence marker"/>  
-    <sdef n="stem"  c="stem"/>
-	  <sdef n="ord"  c="ordinal"/>
-	  <sdef n="percent"  c="Percent"/>
+    <sdef n="stem"         c="stem"/>
+	  <sdef n="ord"          c="ordinal"/>
+	  <sdef n="percent"      c="Percent"/>
     <sdef n="mfn"/>
     <sdef n="abbr"/>
-    <sdef n="cm"         c="Comma"/>
-    <sdef n="lpar"       c="Left parenthesis"/>
-    <sdef n="rpar"       c="Right parenthesis"/>
-    <sdef n="lquot"      c="Left quote"/>
-    <sdef n="rquot"      c="Right quote"/>
-    <sdef n="guio"       c="Hyphen"/>
+    <sdef n="cm"           c="Comma"/>
+    <sdef n="lpar"         c="Left parenthesis"/>
+    <sdef n="rpar"         c="Right parenthesis"/>
+    <sdef n="lquot"        c="Left quote"/>
+    <sdef n="rquot"        c="Right quote"/>
+    <sdef n="guio"         c="Hyphen"/>
 
 
   </sdefs>  
@@ -980,7 +990,8 @@
       <e><p><l>ে</l><r><s n="np" /><s n="top" /><s n="m" /><s n="sg" /><s n="loc" /></r></p><par n="enclitic" /></e>    
     </pardef>
 
-    <!--Verbs -->    
+    <!--Verbs -->  
+
     <pardef n="আগ/া__vblex">      
       <e><p><l>াচ্ছিলাম</l><r>া<s n="vblex" /><s n="past" /><s n="cnt" /><s n="p1" /></r></p><par n="enclitic" /></e>      
       <e><p><l>াচ্ছিল</l><r>া<s n="vblex" /><s n="past" /><s n="cnt" /><s n="p3" /><s n="infml" /></r></p><par n="enclitic" /></e>      
@@ -4572,7 +4583,7 @@
     </pardef>
     
     <pardef n="উভয়__det">      
-      <e><p><l /><r><s n="det" /><s n="ind" /></r></p></e>    
+      <e><p><l /><r><s n="det"/><s n="ind"/></r></p></e>    
     </pardef>
    
     <pardef n="কি__det">		
@@ -12578,10 +12589,42 @@
     <e lm="মোশতাক"><i>মোশতাক</i><par n="হক__np_m"/></e>    
     <e lm="ভেনাস"><i>ভেনাস</i><par n="বেগম__np_f"/></e>
     <!--Verbs -->   
+ 
+    <e lm="তাকা"><i>তাক</i><par n="আগ/া__vblex" /></e> 
+    <e lm="ভরা"><i>ভর</i><par n="আগ/া__vblex" /></e>
+    <e lm="হত্তয়া"><i>হত্তয়</i><par n="আগ/া__vblex" /></e>
+    <e lm="দেখা"><i>দেখ</i><par n="আগ/া__vblex" /></e>
+    <e lm="লুকা"><i>লুক</i><par n="আগ/া__vblex" /></e>
     <e lm="আগা"><i>আগ</i><par n="আগ/া__vblex" /></e>    
     <e lm="বেরা"><i>বের</i><par n="আগ/া__vblex" /></e>    
+    <e lm="দৌড়া"><i>দৌড়</i><par n="আগ/া__vblex" /></e> 
     <e lm="র"><i>র</i><par n="র/__vblex" /></e>    
     <e lm="দেখ"><i>দেখ</i><par n="গড়/__vblex" /></e>  
+    <e lm="অনুভূত"><i>অনুভূত</i><par n="গড়/__vblex" /></e> 
+    <e lm="মান"><i>মান</i><par n="গড়/__vblex" /></e> 
+    <e lm="হ্যাঁ"><i>হ্যাঁ</i><par n="গড়/__vblex" /></e>
+    <e lm="বাজানো"><i>বাজানো</i><par n="গড়/__vblex" /></e> 
+    <e lm="তৈরি"><i>তৈরি</i><par n="গড়/__vblex" /></e>
+    <e lm="বলা হচ্ছে"><i>বলা হচ্ছে</i><par n="গড়/__vblex" /></e>
+    <e lm="যুদ্ধ করা"><i>যুদ্ধ করা</i><par n="গড়/__vblex" /></e>
+    <e lm="আরম্ভ করা"><i>আরম্ভ করা</i><par n="গড়/__vblex" /></e> 
+    <e lm="ঝগড়া করা"><i>ঝগড়া করা</i><par n="গড়/__vblex" /></e>
+    <e lm="জন্মানো"><i>জন্মানো</i><par n="গড়/__vblex" /></e> 
+    <e lm="ফাঁসি দেওয়া"><i>ফাঁসি দেওয়া</i><par n="গড়/__vblex" /></e>  
+    <e lm="মিথ্যে কথা বলা"><i>মিথ্যে কথা বলা</i><par n="গড়/__vblex" /></e>
+    <e lm="পোশাক পরা"><i>পোশাক পরা</i><par n="গড়/__vblex" /></e> 
+    <e lm="আটকে থাকা"><i>আটকে থাকা</i><par n="গড়/__vblex" /></e>
+    <e lm="প্রবাহিত হওয়া"><i>প্রবাহিত হওয়া</i><par n="গড়/__vblex" /></e> 
+    <e lm="ভুলে যাওয়া"><i>ভুলে যাওয়া</i><par n="গড়/__vblex" /></e>
+    <e lm="জন্ম দেওয়া"><i>জন্ম দেওয়া</i><par n="গড়/__vblex" /></e>   
+    <e lm="লেগে থাকা"><i>লেগে থাকা</i><par n="গড়/__vblex" /></e>
+    <e lm="তৈরী করা"><i>তৈরী করা</i><par n="গড়/__vblex" /></e> 
+    <e lm="নত করা"><i>নত করা</i><par n="গড়/__vblex" /></e>
+    <e lm="লুকিয়ে"><i>লুকিয়ে</i><par n="গড়/__vblex" /></e> 
+    <e lm="কামড়ানো"><i>কামড়ানো</i><par n="গড়/__vblex" /></e>  
+    <e lm="পোড়ানো"><i>পোড়ানো</i><par n="গড়/__vblex" /></e> 
+    <e lm="গুন"><i>গুন</i><par n="গড়/__vblex" /></e>
+    <e lm="পছন্দ"><i>পছন্দ</i><par n="গড়/__vblex" /></e>
     <e lm="দেখা কর"><i>দেখা কর</i><par n="গড়/__vblex" /></e>  
     <e lm="বুন"><i>বুন</i><par n="গড়/__vblex" /></e>    
     <e lm="বোঝ"><i>ব</i><par n="ব/োঝ__vblex" /></e>    
@@ -12608,6 +12651,8 @@
     <e lm="ছড়া"><i>ছড়</i><par n="আগ/া__vblex" /></e>    
     <e lm="হাঁট"><i>হ</i><par n="হ/াঁট__vblex" /></e>    
     <e lm="ফলা"><i>ফল</i><par n="আগ/া__vblex" /></e>    
+    <e lm="খোঁজা"><i>খোঁজ</i><par n="আগ/া__vblex" /></e> 
+    <e lm="চেষ্টা"><i>চেষ্ট</i><par n="আগ/া__vblex" /></e>
     <e lm="গলা"><i>গল</i><par n="আগ/া__vblex" /></e>    
     <e lm="হ"><i>হ</i><par n="র/__vblex" /></e>    
     <e lm="পড়"><i>পড়</i><par n="গড়/__vblex" /></e>    
@@ -13148,7 +13193,7 @@
     <e lm="তত"><i>তত</i><par n="তত__det" /></e>    
     <e lm="তোমাদের"><i>তোমাদের</i><par n="এর__det" /></e>    
     <e lm="তাঁর"><i>তাঁর</i><par n="এর__det" /></e>    
-    <e lm="এখানকার"><i>এখানকার</i><par n="উভয়__det" /></e>    
+    <e lm="এখানকার"><i>এখানকার</i><par n="ঐ__det" /></e>    
     <e lm="যেকোনো"><i>যেকোনো</i><par n="উভয়__det" /></e>    
     <e lm="ওদের"><i>ওদের</i><par n="এর__det" /></e>    
     <e lm="সেই"><i>সেই</i><par n="ঐ__det" /></e>    
@@ -13215,9 +13260,18 @@
     <e lm="এইগুলো"><i>এইগুলো</i><par n="ঐ__det" /></e>
     <e lm="আমার"><i>আমার</i><par n="ঐ__det" /></e>
     <e lm="একটা"><i>একটা</i><par n="উভয়__det" /></e>
-    <e lm="পরেরটা"><i>পরেরটা</i><par n="উভয়__det" /></e>
+    <e lm="পরেরটা"><i>পরেরটা</i><par n="উভয়__det" /></e>    
+    <e lm="কোনটা"><i>কোনটা</i><par n="কি__det" /></e>
+    <e lm="কখন"><i>কখন</i><par n="কি__det" /></e>
+    <e lm="কিভাবে"><i>কিভাবে</i><par n="কি__det" /></e>
+    <e lm="কেন"><i>কেন</i><par n="কি__det" /></e>
+    <e lm="কি করতে"><i>কি করতে</i><par n="কি__det" /></e>
+    <e lm="কার জন্য"><i>কার জন্য</i><par n="কি__det" /></e>
+    <e lm="কতক্ষন"><i>কতক্ষন</i><par n="কি__det" /></e>
+    <e lm="কবে"><i>কবে</i><par n="কি__det" /></e>
+    <e lm="কোন"><i>কোন</i><par n="কি__det" /></e>
+    <e lm="কতগুলো"><i>কতগুলো</i><par n="কি__det" /></e>
     
-
 
     <!--Numerals -->   
     <e lm="একাদশ"><i>একাদশ</i><par n="এক__num" /></e> 
