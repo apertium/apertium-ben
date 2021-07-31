@@ -700,7 +700,6 @@
       <e><p><l>আমাদেরকে</l><r>আমি<s n="prn" /><s n="p1" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>      
     </pardef>
 
-
     <pardef n="/তুমি__prn">  
       <e><p><l>তোমার</l><r>তুমি<s n="prn" /><s n="p2" /><s n="fam" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e>      
       <e><p><l>তোমাতে</l><r>তুমি<s n="prn" /><s n="p2" /><s n="fam" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="loc" /></r></p></e>      
@@ -756,8 +755,7 @@
     <e><p><l>সেগুলো</l><r>সে<s n="prn" /><s n="p3" /><s n="infml" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>     
     <e><p><l>তাদেরকে</l><r>সে<s n="prn" /><s n="p3" /><s n="infml" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>     
     <e><p><l>সেগুলোকে</l><r>সে<s n="prn" /><s n="p3" /><s n="infml" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>  
-    <e r="LR"><p><l>তাদের</l><r>সে<s n="prn" /><s n="p2" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>      
-   </pardef> 
+     </pardef> 
 
 
   <pardef n="/ও__prn">  <!-- p3.dem.p3.mf-->  
@@ -773,7 +771,7 @@
     <e><p><l>ওগুলো</l><r>ও<s n="prn" /><s n="dem"/><s n="p3" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>      
     <e r="LR"><p><l>ওইগুলো</l><r>ও<s n="prn" /><s n="dem"/><s n="p3" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>      
     <e r="LR"><p><l>ওইসব</l><r>ও<s n="prn" /><s n="dem"/><s n="p3" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>  
-    <e r="LR"><p><l>ওদের</l><r>ও<s n="prn" /><s n="dem"/><s n="p3" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>      
+    <e r="RL"><p><l>ওদের</l><r>ও<s n="prn" /><s n="dem"/><s n="p3" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>      
     <e><p><l>ওদেরকে</l><r>ও<s n="prn" /><s n="dem"/><s n="p3" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>      
     <e><p><l>ওগুলোকে</l><r>ও<s n="prn" /><s n="dem"/><s n="p3" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>      
     <e r="LR"><p><l>ওইগুলোকে</l><r>ও<s n="prn" /><s n="dem"/><s n="p3" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>      
