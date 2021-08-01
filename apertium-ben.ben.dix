@@ -585,109 +585,130 @@
       <e><p><l /><r><s n="post" /></r></p></e>    
     </pardef>
     
-
-
     <!--Pronouns -->    
-    <pardef n="কী__prn">      
-      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="itg" /><s n="nn" /><s n="mf" /><s n="sp" /><s n="nom" /></r></p></e>    
+
+    <pardef n="/সকল__prn">      
+      <e><p><l>সকলের</l><r>সকল<s n="prn" /><s n="indef" /><s n="aa" /><s n="pl" /><s n="gen" /></r></p></e>      
+      <e><p><l>সকল</l><r>সকল<s n="prn" /><s n="indef" /><s n="aa" /><s n="pl" /><s n="nom" /></r></p></e>      
+      <e><p><l>সকলকে</l><r>সকল<s n="prn" /><s n="indef" /><s n="aa" /><s n="pl" /><s n="obj" /></r></p></e>
+      <e><p><l>সকলের কাছে</l><r>সকল<s n="prn" /><s n="indef" /><s n="aa" /><s n="pl" /><s n="loc" /></r></p></e>
+      <e r="LR"><p><l>সকলকিছু</l><r>সকল<s n="prn" /><s n="indef" /><s n="nn" /><s n="pl" /><s n="nom" /></r></p></e> 
+      <e r="LR"><p><l>সকলকিছুকে</l><r>সকল<s n="prn" /><s n="indef" /><s n="nn" /><s n="pl" /><s n="obj" /></r></p></e>
+      <e r="LR"><p><l>সকলকিছুর</l><r>সকল<s n="prn" /><s n="indef" /><s n="nn" /><s n="pl" /><s n="gen" /></r></p></e>
+      <e r="LR"><p><l>সকলকিছুতে</l><r>সকল<s n="prn" /><s n="indef" /><s n="nn" /><s n="pl" /><s n="gen" /></r></p></e>
+      <e><p><l>সবকিছু</l><r>সকল<s n="prn" /><s n="indef" /><s n="nn" /><s n="pl" /><s n="nom" /></r></p></e>  
+      <e><p><l>সবকিছুকে</l><r>সকল<s n="prn" /><s n="indef" /><s n="nn" /><s n="pl" /><s n="obj" /></r></p></e>  
+      <e><p><l>সবকিছুর</l><r>সকল<s n="prn" /><s n="indef" /><s n="nn" /><s n="pl" /><s n="gen" /></r></p></e> 
+      <e><p><l>সবকিছুতে</l><r>সকল<s n="prn" /><s n="indef" /><s n="nn" /><s n="pl" /><s n="loc" /></r></p></e>
+      <e><p><l>সব</l><r>সকল<s n="prn" /><s n="indef" /><s n="an" /><s n="pl" /><s n="nom" /></r></p></e>   
+      <e r="LR"><p><l>সবাই</l><r>সকল<s n="prn" /><s n="indef" /><s n="aa" /><s n="pl" /><s n="nom" /></r></p></e> 
+      <e r="LR"><p><l>সবাইকে</l><r>সকল<s n="prn" /><s n="indef" /><s n="aa" /><s n="pl" /><s n="obj" /></r></p></e>   
+      <e r="LR"><p><l>সবার</l><r>সকল<s n="prn" /><s n="indef" /><s n="aa" /><s n="pl" /><s n="gen" /></r></p></e> 
+      <e r="LR"><p><l>সবার কাছে</l><r>সকল<s n="prn" /><s n="indef" /><s n="aa" /><s n="pl" /><s n="loc" /></r></p></e> 
+    </pardef>
+
+    <pardef n="পরস্পর__prn">      
+      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="rec" /><s n="mf" /><s n="pl" /></r></p></e>    
+    </pardef> 
+
+    <pardef n="আপনা_আপনি__prn">      
+      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="rec" /><s n="mf" /><s n="sp" /></r></p></e>    
     </pardef>
 
     <pardef n="যে_কোন_কিছু__prn">      
       <e><p><l /><r><s n="prn" /><s n="indef" /><s n="mf" /><s n="sp" /><s n="obj" /></r></p></e>    
     </pardef>
 
-    <pardef n="সবকিছু__prn">      
-      <e><p><l /><r><s n="prn" /><s n="indef" /><s n="nn" /><s n="pl" /><s n="obj" /></r></p></e>    
+
+    <pardef n="/যে__prn">  
+      <e><p><l>যে</l><r>যে<s n="prn" /><s n="p3" /><s n="infml" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>      
+      <e><p><l>যাকে</l><r>যে<s n="prn" /><s n="p3" /><s n="infml" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="obj" /></r></p></e>  
+      <e><p><l>যার</l><r>যে<s n="prn" /><s n="p3" /><s n="infml" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e>   
+      <e><p><l>যার কাছে</l><r>যে<s n="prn" /><s n="p3" /><s n="infml" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="loc" /></r></p></e>  
+      <e><p><l>যাদের</l><r>যে<s n="prn" /><s n="p3" /><s n="infml" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
+      <e><p><l>যাদেরকে</l><r>যে<s n="prn" /><s n="p3" /><s n="infml" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>      
+      <e><p><l>যারা</l><r>যে<s n="prn" /><s n="p3" /><s n="infml" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>  
+      <e><p><l>যাদের কাছে</l><r>যে<s n="prn" /><s n="p3" /><s n="infml" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="loc" /></r></p></e>  
+
+      <e><p><l>যিনি</l><r>যে<s n="prn" /><s n="p3" /><s n="pol" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>    
+      <e><p><l>যেনাকে</l><r>যে<s n="prn" /><s n="p3" /><s n="pol" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="obj" /></r></p></e> 
+      <e><p><l>যেনার</l><r>যে<s n="prn" /><s n="p3" /><s n="pol" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e> 
+      <e><p><l>যেনার কাছে</l><r>যে<s n="prn" /><s n="p3" /><s n="pol" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="loc" /></r></p></e>      
+      <e><p><l>যিনারা</l><r>যে<s n="prn" /><s n="p3" /><s n="pol" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>    
+      <e><p><l>যিনাদেরকে</l><r>যে<s n="prn" /><s n="p3" /><s n="pol" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e> 
+      <e><p><l>যিনাদের</l><r>যে<s n="prn" /><s n="p3" /><s n="pol" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e> 
+      <e><p><l>যিনাদের কাছে</l><r>যে<s n="prn" /><s n="p3" /><s n="pol" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="loc" /></r></p></e>   
+
+      <e><p><l>যা</l><r>যে<s n="prn" /><s n="p3" /><s n="rel" /><s n="nn" /><s n="mf" /><s n="sp" /><s n="nom" /></r></p></e>    
+      <e><p><l>যেটা</l><r>যে<s n="prn" /><s n="p3" /><s n="rel" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="obj" /></r></p></e> 
+      <e><p><l>যেটাতে</l><r>যে<s n="prn" /><s n="p3" /><s n="rel" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="loc" /></r></p></e> 
+      <e><p><l>যেটার</l><r>যে<s n="prn" /><s n="p3" /><s n="rel" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e>
+      <e><p><l>যেগুলো</l><r>যে<s n="prn" /><s n="p3" /><s n="rel" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e> 
+      <e><p><l>যেগুলোতে</l><r>যে<s n="prn" /><s n="p3" /><s n="rel" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="loc" /></r></p></e> 
+      <e><p><l>যেগুলোর</l><r>যে<s n="prn" /><s n="p3" /><s n="rel" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>
     </pardef>
     
-    <pardef n="পরস্পর__prn">      
-      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="rec" /><s n="mf" /><s n="pl" /></r></p></e>    
+    <pardef n="/অন্য__prn">      
+      <e><p><l>অন্যের</l><r>অন্য<s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
+      <e><p><l>অন্য</l><r>অন্য<s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>      
+      <e><p><l>অন্যকে</l><r>অন্য<s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>  
+      <e><p><l>অন্যদের</l><r>অন্য<s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
+      <e><p><l>অন্যরা</l><r>অন্য<s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>      
+      <e><p><l>অন্যদেরকে</l><r>অন্য<s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e> 
+      <e><p><l>অন্যটা</l><r>অন্য<s n="prn" /><s n="p3" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e> 
+      <e><p><l>অন্যটাকে</l><r>অন্য<s n="prn" /><s n="p3" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="obj" /></r></p></e>
+      <e><p><l>অন্যটার</l><r>অন্য<s n="prn" /><s n="p3" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e>      
+      <e><p><l>অন্যটায়</l><r>অন্য<s n="prn" /><s n="p3" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="loc" /></r></p></e> 
+      <e><p><l>অন্যগুলো</l><r>অন্য<s n="prn" /><s n="p3" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e> 
+      <e><p><l>অন্যগুলোকে</l><r>অন্য<s n="prn" /><s n="p3" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>
+      <e><p><l>অন্যগুলোর</l><r>অন্য<s n="prn" /><s n="p3" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
+      <e><p><l>অন্যগুলোয়</l><r>অন্য<s n="prn" /><s n="p3" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="loc" /></r></p></e> 
     </pardef>
     
-    <pardef n="যা/রা__prn">      
-      <e><p><l>দের</l><r>রা<s n="prn" /><s n="p3" /><s n="infml" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
-      <e r="LR"><p><l>দেরকে</l><r>রা<s n="prn" /><s n="p3" /><s n="infml" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>      
-      <e><p><l>দের</l><r>রা<s n="prn" /><s n="p3" /><s n="infml" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>    
-    </pardef>
-    
-    <pardef n="যেটা__prn">      
-      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="rel" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>    
+    <pardef n="/অপর__prn">     
+      <e><p><l>অপরদের</l><r>অপর<s n="prn" /><s n="p3" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
+      <e><p><l>অপরগুলো</l><r>অপর<s n="prn" /><s n="p3" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>        
+      <e><p><l>অপররা</l><r>অপর<s n="prn" /><s n="p3" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>        
+      <e><p><l>অপরদেরকে</l><r>অপর<s n="prn" /><s n="p3" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>       
+      <e><p><l>অপরকে</l><r>অপর<s n="prn" /><s n="p3" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="obj" /></r></p></e>  
+      <e><p><l>অপর</l><r>অপর<s n="prn" /><s n="p3" /><s n="an" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>      
+      <e><p><l>অপরের</l><r>অপর<s n="prn" /><s n="p3" /><s n="an" /><s n="mf" /><s n="sp" /><s n="gen" /></r></p></e>       
+      <e><p><l>অপরটা</l><r>অপর<s n="prn" /><s n="p3" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>   
     </pardef>
 
-    <pardef n="কাকে__prn">      
-      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>    
+    <pardef n="/অনেকে__prn">      
+      <e><p><l>অনেকে</l><r>অনেকে<s n="prn" /><s n="indef" /><s n="aa" /><s n="pl" /><s n="nom" /></r></p></e>  
+      <e><p><l>অনেককে</l><r>অনেকে<s n="prn" /><s n="indef" /><s n="aa" /><s n="pl" /><s n="obj" /></r></p></e> 
+      <e><p><l>অনেকের</l><r>অনেকে<s n="prn" /><s n="indef" /><s n="aa" /><s n="pl" /><s n="gen" /></r></p></e>
+      <e><p><l>অনেকগুলো</l><r>অনেকে<s n="prn" /><s n="indef" /><s n="nn" /><s n="pl" /><s n="nom" /></r></p></e>
+      <e><p><l>অনেকগুলোর</l><r>অনেকে<s n="prn" /><s n="indef" /><s n="nn" /><s n="pl" /><s n="gen" /></r></p></e>
+      <e><p><l>অনেকগুলোকে</l><r>অনেকে<s n="prn" /><s n="indef" /><s n="nn" /><s n="pl" /><s n="obj" /></r></p></e>
     </pardef>
     
-    <pardef n="কিসের__prn">      
-      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="itg" /><s n="nn" /><s n="mf" /><s n="sp" /><s n="gen" /></r></p></e>    
-    </pardef>
-    
-    <pardef n="আপনা_আপনি__prn">      
-      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="rec" /><s n="mf" /><s n="sp" /></r></p></e>    
-    </pardef>
-    
-    <pardef n="অন্য/রা__prn">      
-      <e><p><l>দের</l><r>রা<s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
-      <e><p><l>রা</l><r>রা<s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>    
-    </pardef>
-    
-    <pardef n="সকল__prn">      
-      <e><p><l>ের</l><r><s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
-      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>      
-      <e><p><l>কে</l><r><s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>    
-    </pardef>
-    
-    <pardef n="অপর__prn">      
-      <e><p><l>দের</l><r><s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
-      <e><p><l>গুলো</l><r><s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>      
-      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="an" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>      
-      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="an" /><s n="mf" /><s n="sp" /><s n="obj" /></r></p></e>    
-    </pardef>
-    
-    <pardef n="অন্যটা__prn">      
-      <e><p><l>র</l><r><s n="prn" /><s n="p3" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e>      
-      <e><p><l>য়</l><r><s n="prn" /><s n="p3" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="loc" /></r></p></e>      
-      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>      
-      <e><p><l>কে</l><r><s n="prn" /><s n="p3" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="obj" /></r></p></e>    
-    </pardef>
-    
-    <pardef n="ক/ি__prn">      
-      <e><p><l>ার</l><r>ি<s n="prn" /><s n="p3" /><s n="itg" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e>      
-      <e><p><l>িসে</l><r>ি<s n="prn" /><s n="p3" /><s n="itg" /><s n="nn" /><s n="mf" /><s n="sp" /><s n="loc" /></r></p></e>    
-    </pardef>
-    
-    <pardef n="অনেকে__prn">      
-      <e><p><l /><r><s n="prn" /><s n="pl" /><s n="nom" /></r></p></e>    
-    </pardef>
-    
-    <pardef n="কেউ__prn">      
-      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="aa" /><s n="mf" /><s n="sp" /><s n="nom" /></r></p></e>    
-    </pardef>
-    
-    <pardef n="কা/রা__prn">      
-      <e><p><l>দের</l><r>রা<s n="prn" /><s n="p3" /><s n="itg" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
-      <e><p><l>রা</l><r>রা<s n="prn" /><s n="p3" /><s n="itg" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>    
-    </pardef>
-    
-    <pardef n="কিছু__prn">      
-      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>    
-    </pardef>
-    
-    <pardef n="সব__prn">      
-      <e><p><l>ার</l><r><s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
-      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>    
-    </pardef>
-    
-    <pardef n="সবাই__prn">      
-      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>      
-      <e><p><l>কে</l><r><s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>    
-    </pardef>
-    
-    <pardef n="অপরটা__prn">      
-      <e><p><l /><r><s n="prn" /><s n="p3" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>    
+    <pardef n="/কেউ__prn">      
+      <e><p><l>কেউ</l><r>কেউ<s n="prn" /><s n="indef" /><s n="p3" /><s n="aa" /><s n="mf" /><s n="sp" /><s n="nom" /></r></p></e>    
+      <e><p><l>কিছু</l><r>কেউ<s n="prn" /><s n="indef" /><s n="p3" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>        
+      <e r="LR"><p><l>কিছুটা</l><r>কেউ<s n="prn" /><s n="indef" /><s n="p3" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>
+      <e><p><l>সবাই</l><r>কেউ<s n="prn" /><s n="indef" /><s n="p3" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e> 
+      <e><p><l>সবাইকে</l><r>কেউ<s n="prn" /><s n="indef" /><s n="p3" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>
+      <e><p><l>সব</l><r>কেউ<s n="prn" /><s n="indef" /><s n="p3" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>
+      <e><p><l>সবার</l><r>কেউ<s n="prn" /><s n="indef" /><s n="p3" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>
     </pardef>
 
- <!--   <pardef n="/prpers__prn">    -->  
+    <pardef n="/কে__prn">    
+      <e><p><l>কে</l><r>কে<s n="prn" /><s n="p3" /><s n="itg" /><s n="aa" /><s n="mf" /><s n="sp" /><s n="nom" /></r></p></e>
+      <e><p><l>কার</l><r>কে<s n="prn" /><s n="p3" /><s n="itg" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e>  
+      <e><p><l>কিসে</l><r>কে<s n="prn" /><s n="p3" /><s n="itg" /><s n="nn" /><s n="mf" /><s n="sp" /><s n="loc" /></r></p></e>  
+      <e><p><l>কি</l><r>কে<s n="prn" /><s n="p3" /><s n="itg" /><s n="nn" /><s n="mf" /><s n="sp" /><s n="nom" /></r></p></e> 
+      <e r="LR"><p><l>কী</l><r>কে<s n="prn" /><s n="p3" /><s n="itg" /><s n="nn" /><s n="mf" /><s n="sp" /><s n="nom" /></r></p></e>   
+      <e><p><l>কাদের</l><r>কে<s n="prn" /><s n="p3" /><s n="itg" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
+      <e><p><l>কারা</l><r>কে<s n="prn" /><s n="p3" /><s n="itg" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>      
+      <e><p><l>কাকে</l><r>কে<s n="prn" /><s n="p3" /><s n="itg" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="obj" /></r></p></e>      
+      <e><p><l>কাদেরকে</l><r>কে<s n="prn" /><s n="p3" /><s n="itg" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>    
+      <e><p><l>কিসের</l><r>কে<s n="prn" /><s n="p3" /><s n="itg" /><s n="nn" /><s n="mf" /><s n="sp" /><s n="gen" /></r></p></e>    
+    </pardef> 
+
+<!--Personal-->
 
     <pardef n="/আমি__prn"> 
       <e><p><l>আমার</l><r>আমি<s n="prn" /><s n="p1" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e>      
@@ -732,7 +753,7 @@
       <e r="LR"><p><l>আপনাদের</l><r>আপনি<s n="prn" /><s n="p2" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>      
     </pardef>
     
-    <pardef n="/তিনি__prn"> <!-- p3.pol.aa.mf -->
+    <pardef n="/তিনি__prn"> 
       <e><p><l>তাঁর</l><r>তিনি<s n="prn" /><s n="p3" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e>      
       <e><p><l>তিনি</l><r>তিনি<s n="prn" /><s n="p3" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>      
       <e><p><l>তাঁকে</l><r>তিনি<s n="prn" /><s n="p3" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="obj" /></r></p></e>      
@@ -741,7 +762,7 @@
       <e><p><l>তাঁদেরকে</l><r>তিনি<s n="prn" /><s n="p3" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>    
     </pardef>
 
-     <pardef n="/সে__prn">  <!-- p3.infml.mf--> 
+     <pardef n="/সে__prn">   
     <e><p><l>সে</l><r>সে<s n="prn" /><s n="p3" /><s n="infml" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e> 
     <e><p><l>সেটা</l><r>সে<s n="prn" /><s n="p3" /><s n="infml" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e> 
     <e r="LR"><p><l>তা</l><r>সে<s n="prn" /><s n="p3" /><s n="infml" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>     
@@ -758,7 +779,7 @@
      </pardef> 
 
 
-  <pardef n="/ও__prn">  <!-- p3.dem.p3.mf-->  
+  <pardef n="/ও__prn">   
     <e><p><l>ও</l><r>ও<s n="prn" /><s n="dem"/><s n="p3" /><s n="an" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>      
     <e><p><l>ওটা</l><r>ও<s n="prn" /><s n="dem"/><s n="p3" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>          
     <e><p><l>ওর</l><r>ও<s n="prn" /><s n="dem"/><s n="p3" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e>      
@@ -784,7 +805,7 @@
     <e r="LR"><p><l>ওইগুলোর</l><r>ও<s n="prn" /><s n="dem"/><s n="p3" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
     </pardef>
 
-  <pardef n="/এ__prn">  <!-- p3.dem..mf--> 
+  <pardef n="/এ__prn">  
     <e><p><l>এ</l><r>এ<s n="prn" /><s n="dem"/><s n="p3" /><s n="an" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>      
     <e><p><l>এটা</l><r>এ<s n="prn" /><s n="dem"/><s n="p3" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>      
     <e><p><l>একে</l><r>এ<s n="prn" /><s n="dem"/><s n="p3" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="obj" /></r></p></e>      
@@ -811,7 +832,7 @@
     <e r="LR"><p><l>ঐগুলোর</l><r>এ<s n="prn" /><s n="dem"/><s n="p3" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
     </pardef> 
 
-    <pardef n="/উনি__prn"> <!-- p3.pol.aa.mf.dem -->
+    <pardef n="/উনি__prn"> 
       <e><p><l>উনার</l><r>উনি<s n="prn" /><s n="dem"/><s n="p3" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e>      
       <e><p><l>উনি</l><r>উনি<s n="prn" /><s n="dem"/><s n="p3" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>      
       <e><p><l>উনাকে</l><r>উনি<s n="prn" /><s n="dem"/><s n="p3" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="obj" /></r></p></e>      
@@ -820,25 +841,13 @@
       <e><p><l>উনাদেরকে</l><r>উনি<s n="prn" /><s n="dem"/><s n="p3" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>    
     </pardef>
 
-    <pardef n="/ইনি__prn"> <!-- p3.pol.aa.mf.dem -->
+    <pardef n="/ইনি__prn"> 
       <e><p><l>ইনার</l><r>ইনি<s n="prn" /><s n="dem"/><s n="p3" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e>      
       <e><p><l>ইনি</l><r>ইনি<s n="prn" /><s n="dem"/><s n="p3" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>      
       <e><p><l>ইনাকে</l><r>ইনি<s n="prn" /><s n="dem"/><s n="p3" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="obj" /></r></p></e>      
       <e><p><l>ইনাদের</l><r>ইনি<s n="prn" /><s n="dem"/><s n="p3" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
       <e><p><l>ইনারা</l><r>ইনি<s n="prn" /><s n="dem"/><s n="p3" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>         
       <e><p><l>ইনাদেরকে</l><r>ইনি<s n="prn" /><s n="dem"/><s n="p3" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>    
-    </pardef>
-    
-    <pardef n="অন্য__prn">      
-      <e><p><l>ের</l><r><s n="prn" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
-      <e><p><l>গুলো</l><r><s n="prn" /><s n="indef" /><s n="p3" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>      
-      <e><p><l>কে</l><r><s n="prn" /><s n="p3" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="obj" /></r></p></e>      
-      <e><p><l /><r><s n="prn" /><s n="indef" /><s n="p3" /><s n="an" /><s n="mf" /><s n="sp" /><s n="nom" /></r></p></e>    
-    </pardef>
-    
-    <pardef n="ক/ে__prn">      
-      <e><p><l>ার</l><r>ে<s n="prn" /><s n="p3" /><s n="itg" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e>      
-      <e><p><l>ে</l><r>ে<s n="prn" /><s n="p3" /><s n="itg" /><s n="aa" /><s n="mf" /><s n="sp" /><s n="nom" /></r></p></e>    
     </pardef>
     
     <pardef n="স্বয়ং__prn">      
@@ -853,18 +862,7 @@
       <e><p><l>নিজেরা</l><r>নিজে<s n="prn" /><s n="ref" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>    
       <e><p><l>নিজেদেরকে</l><r>নিজে<s n="prn" /><s n="ref" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>      
     </pardef>
-    
-    <pardef n="য/িনি__prn">      
-      <e><p><l>াকে</l><r>িনি<s n="prn" /><s n="p3" /><s n="infml" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="obj" /></r></p></e>      
-      <e><p><l>িনি</l><r>িনি<s n="prn" /><s n="p3" /><s n="pol" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>    
-    </pardef>
-    
-    <pardef n="য/া__prn">      
-      <e><p><l>ার</l><r>া<s n="prn" /><s n="p3" /><s n="infml" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e>      
-      <e><p><l>ে</l><r>া<s n="prn" /><s n="p3" /><s n="infml" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>      
-      <e><p><l>ারা</l><r>া<s n="prn" /><s n="p3" /><s n="infml" /><s n="rel" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>      
-      <e><p><l>া</l><r>া<s n="prn" /><s n="p3" /><s n="rel" /><s n="nn" /><s n="mf" /><s n="sp" /><s n="nom" /></r></p></e>    
-    </pardef>
+  
 
     <!--Proper Nouns -->    
     <pardef n="হক__np_m">      
@@ -10763,44 +10761,24 @@
     <!--Pronouns --> 
     <e lm="স্বয়ং"><i>স্বয়ং</i><par n="স্বয়ং__prn" /></e>
     <e lm="যে কোন কিছু"><i>যে<b/>কোন<b/>কিছু</i><par n="যে_কোন_কিছু__prn" /></e>
+    <e lm="কিছুই"><i>কিছুই</i><par n="যে_কোন_কিছু__prn" /></e>
+    <e lm="যে কেউ"><i>যে<b/>কেউ</i><par n="যে_কোন_কিছু__prn" /></e>
     <e lm="প্রত্যেক"><i>প্রত্যেক</i><par n="যে_কোন_কিছু__prn" /></e>
-    <e lm="সবাই"><i>সবাই</i><par n="যে_কোন_কিছু__prn" /></e>
     <e lm="কিছু একটা"><i>কিছু<b/>একটা</i><par n="যে_কোন_কিছু__prn" /></e>
-    <e lm="অন্য"><i>অন্য</i><par n="অন্য__prn" /></e>
-    <e lm="যে কেউ"><i>যে<b/>কেউ</i><par n="অন্য__prn" /></e>
-    <e lm="কেউনা"><i>কেউনা</i><par n="অন্য__prn" /></e>
-    <e lm="সবকিছু"><i>সবকিছু</i><par n="সবকিছু__prn" /></e>
-    <e lm="বেশ কয়েকটা"><i>বেশ<b/>কয়েকটা</i><par n="সবকিছু__prn" /></e>
-    <e lm="কম"><i>কম</i><par n="সবকিছু__prn" /></e>
-    <e lm="উভয়ই"><i>উভয়ই</i><par n="সবকিছু__prn" /></e>   
-    <e lm="অন্যটা"><i>অন্যটা</i><par n="অন্যটা__prn" /></e>    
-    <e lm="অপর"><i>অপর</i><par n="অপর__prn" /></e>    
-    <e lm="কিসের"><i>কিসের</i><par n="কিসের__prn" /></e>
-    <e lm="কখন"><i>কখন</i><par n="কিসের__prn" /></e>
-    <e lm="কোথায়"><i>কোথায়</i><par n="কিসের__prn" /></e>
-    <e lm="কেন"><i>কেন</i><par n="কিসের__prn" /></e>
-    <e lm="কার"><i>কার</i><par n="কাকে__prn" /></e>
-    <e lm="কাকে"><i>কাকে</i><par n="কাকে__prn" /></e>      
-    <e lm="অনেকে"><i>অনেকে</i><par n="অনেকে__prn" /></e>    
+    <e lm="কেউনা"><i>কেউনা</i><par n="যে_কোন_কিছু__prn" /></e>
+    <e lm="কম"><i>কম</i><par n="যে_কোন_কিছু__prn" /></e> 
+    <e lm="বেশ কয়েকটা"><i>বেশ<b/>কয়েকটা</i><par n="যে_কোন_কিছু__prn" /></e> 
+    <e lm="অনেকেই"><i>অনেকেই</i><par n="যে_কোন_কিছু__prn" /></e> 
+    <e lm="অন্য"><i></i><par n="/অন্য__prn" /></e>
+    <e lm="কেউ"><i></i><par n="/কেউ__prn" /></e> 
+    <e lm="সকল"><i></i><par n="/সকল__prn" /></e>
+    <e lm="অপর"><i></i><par n="/অপর__prn" /></e>    
+    <e lm="কে"><i></i><par n="/কে__prn" /></e>   
+    <e lm="অনেকে"><i></i><par n="/অনেকে__prn" /></e>   
     <e lm="নিজে নিজে"><i>নিজে<b />নিজে</i><par n="আপনা_আপনি__prn" /></e>    
-    <e lm="যা"><i>য</i><par n="য/া__prn" /></e>    
-    <e lm="কি"><i>ক</i><par n="ক/ি__prn" /></e>     
-    <e lm="কারা"><i>কা</i><par n="কা/রা__prn" /></e>    
-    <e lm="কেউ"><i>কেউ</i><par n="কেউ__prn" /></e>      
-    <e lm="যেটা"><i>যেটা</i><par n="যেটা__prn" /></e>    
-    <e lm="সকল"><i>সকল</i><par n="সকল__prn" /></e>
-    <e lm="তাদেরকে"><i>তাদেরকে</i><par n="সকল__prn" /></e>    
-    <e lm="যিনি"><i>য</i><par n="য/িনি__prn" /></e>    
-    <e lm="অন্য"><i>অন্য</i><par n="অন্য__prn" /></e>    
-    <e lm="কিছুটা"><i>কিছুটা</i><par n="কিছু__prn" /></e>    
-    <e lm="সবাই"><i>সবাই</i><par n="সবাই__prn" /></e>    
-    <e lm="অনেকেই"><i>অনেকেই</i><par n="অনেকে__prn" /></e>    
-    <e lm="কিছুই"><i>কিছুই</i><par n="কিছু__prn" /></e>    
+    <e lm="যে"><i></i><par n="/যে__prn" /></e>        
     <e lm="পরস্পর"><i>পরস্পর</i><par n="পরস্পর__prn" /></e>       
-    <e lm="কিছু"><i>কিছু</i><par n="কিছু__prn" /></e>
-    <e lm="কোনটা"><i>কোনটা</i><par n="কিছু__prn" /></e>    
-    <e lm="আপনা আপনি"><i>আপনা<b/>আপনি</i><par n="আপনা_আপনি__prn" /></e>    
-    <e lm="সব"><i>সব</i><par n="সব__prn" /></e>    
+    <e lm="আপনা আপনি"><i>আপনা<b/>আপনি</i><par n="আপনা_আপনি__prn" /></e>      
     <e lm="নিজে"><i></i><par n="/নিজে__prn" /></e>      
     <e lm="আমি"><i/><par n="/আমি__prn" /></e> 
     <e lm="তুমি"><i/><par n="/তুমি__prn" /></e> 
@@ -10811,14 +10789,8 @@
     <e lm="এ"><i/><par n="/এ__prn" /></e>
     <e lm="তিনি"><i/><par n="/তিনি__prn" /></e>  
     <e lm="উনি"><i/><par n="/উনি__prn" /></e>
-    <e lm="ইনি"><i/><par n="/ইনি__prn" /></e>
-    <e lm="অপরটা"><i>অপরটা</i><par n="অপরটা__prn" /></e>    
-    <e lm="কে"><i>ক</i><par n="ক/ে__prn" /></e>    
-    <e lm="অন্যরা"><i>অন্য</i><par n="অন্য/রা__prn" /></e>    
-    <e lm="কী"><i>কী</i><par n="কী__prn" /></e>    
-    <e lm="যারা"><i>যা</i><par n="যা/রা__prn" /></e>  
-    <e lm="যে"><i>য</i><par n="য/া__prn" /></e>   
-    <e lm="আপনি"><i>য</i><par n="য/া__prn" /></e>
+    <e lm="ইনি"><i/><par n="/ইনি__prn" /></e> 
+ 
 
     <!--Proper Nouns -->    
     <e lm="জাহের"><i>জাহের</i><par n="হক__np_m" /></e>    
@@ -13274,13 +13246,15 @@
     <e lm="একটা"><i>একটা</i><par n="উভয়__det" /></e>
     <e lm="পরেরটা"><i>পরেরটা</i><par n="উভয়__det" /></e>    
     <e lm="কোনটা"><i>কোনটা</i><par n="কি__det" /></e>
-    <e lm="কখন"><i>কখন</i><par n="কি__det" /></e>
+    <e lm="কখন"><i>কখন</i><par n="কি__det" /></e> 
+    <e lm="কোথায়"><i>কোথায়</i><par n="কি__det" /></e>
     <e lm="কিভাবে"><i>কিভাবে</i><par n="কি__det" /></e>
     <e lm="কেন"><i>কেন</i><par n="কি__det" /></e>
     <e lm="কি করতে"><i>কি করতে</i><par n="কি__det" /></e>
     <e lm="কার জন্য"><i>কার জন্য</i><par n="কি__det" /></e>
     <e lm="কতক্ষন"><i>কতক্ষন</i><par n="কি__det" /></e>
-    <e lm="কবে"><i>কবে</i><par n="কি__det" /></e>
+    <e lm="কবে"><i>কবে</i><par n="কি__det" /></e> 
+    <e lm="কেন"><i>কেন</i><par n="কি__det" /></e>
     <e lm="কোন"><i>কোন</i><par n="কি__det" /></e>
     <e lm="কতগুলো"><i>কতগুলো</i><par n="কি__det" /></e>
     
