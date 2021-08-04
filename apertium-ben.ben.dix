@@ -4624,31 +4624,7 @@
     <pardef n="তারপর__cnjsub">      
       <e><p><l /><r><s n="cnjsub" /></r></p></e>      
     </pardef>
-
-    <pardef n="যদিও__cnjsub">      
-      <e><p><l /><r><s n="cnjsub" /></r></p></e>      
-    </pardef>
-
-    <pardef n="মত__cnjsub">      
-      <e><p><l /><r><s n="cnjsub" /></r></p></e>      
-    </pardef>
-
-    <pardef n="যেন__cnjsub">      
-      <e><p><l /><r><s n="cnjsub" /></r></p></e>      
-    </pardef>
-
-    <pardef n="যত দূর সম্ভব__cnjsub">      
-      <e><p><l /><r><s n="cnjsub" /></r></p></e>      
-    </pardef>
-
-    <pardef n="কারণ__cnjsub">      
-      <e><p><l /><r><s n="cnjsub" /></r></p></e>      
-    </pardef>
-
-    <pardef n="এমনকি__cnjsub">      
-      <e><p><l /><r><s n="cnjsub" /></r></p></e>      
-    </pardef>
-
+    
     <pardef n="তদনুসারে__cnjadv">      
       <e><p><l /><r><s n="cnjadv" /></r></p></e>      
     </pardef>
@@ -13443,9 +13419,9 @@
     <e lm="বিশেষকরে"><i>বিশেষকরে</i><par n="তারপর__cnjsub" /></e>
     <e lm="যতক্ষন"><i>যতক্ষন</i><par n="তারপর__cnjsub" /></e>
     <e lm="হয় এটা অথবা ওটা"><i>হয়<b/>এটা<b/>অথবা<b/>ওটা</i><par n="তারপর__cnjsub" /></e>
-    <e lm="যত তাড়াতাড়ি সম্ভব"><i>যত<b/>তাড়াতাড়ি<b/>সম্ভব</i><par n="যত দূর সম্ভব__cnjsub" /></e>
-    <e lm="যত দূর সম্ভব"><i>যত<b/>দূর<b/>সম্ভব</i><par n="যত দূর সম্ভব__cnjsub" /></e>
-    <e lm="যত বেশি সম্ভব"><i>যত<b/>বেশি<b/>সম্ভব</i><par n="যত দূর সম্ভব__cnjsub" /></e>
+    <e lm="যত তাড়াতাড়ি সম্ভব"><i>যত<b/>তাড়াতাড়ি<b/>সম্ভব</i><par n="তারপর__cnjsub" /></e>
+    <e lm="যত দূর সম্ভব"><i>যত<b/>দূর<b/>সম্ভব</i><par n="তারপর__cnjsub" /></e>
+    <e lm="যত বেশি সম্ভব"><i>যত<b/>বেশি<b/>সম্ভব</i><par n="তারপর__cnjsub" /></e>
     <e lm="আগে"><i>আগে</i><par n="তারপর__cnjsub" /></e>
     <e lm="তারপর"><i>তারপর</i><par n="তারপর__cnjsub" /></e>
     <e lm="যদিও"><i>যদিও</i><par n="তারপর__cnjsub" /></e>
@@ -13492,6 +13468,7 @@
     <e lm="এখন কি"><i>এখন কি</i><par n="তারপর__cnjsub" /></e>
     <e lm="যে সরবরাহ"><i>যে সরবরাহ</i><par n="তারপর__cnjsub" /></e>
     <e lm="অনুমান করা"><i>অনুমান করা</i><par n="তারপর__cnjsub" /></e>
+    <e lm="যে"><i>যে</i><par n="তারপর__cnjsub" /></e> 
 
     <e lm="উভয়"><i>উভয়</i><par n="তদনুসারে__cnjadv" /></e>
     <e lm="কারণে"><i>কারণে</i><par n="তদনুসারে__cnjadv" /></e>
