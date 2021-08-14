@@ -719,6 +719,13 @@
       <e><p><l>আমাদের</l><r>আমি<s n="prn" /><s n="p1" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
       <e><p><l>আমরা</l><r>আমি<s n="prn" /><s n="p1" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>    
       <e><p><l>আমাদেরকে</l><r>আমি<s n="prn" /><s n="p1" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>      
+      <e r="RL"><p><l>আমার</l><r>আমি<s n="prn" /><s n="p1" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e>      
+      <e r="RL"><p><l>আমাতে</l><r>আমি<s n="prn" /><s n="p1" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="loc" /></r></p></e>      
+      <e r="RL"><p><l>আমি</l><r>আমি<s n="prn" /><s n="p1" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>      
+      <e r="RL"><p><l>আমাকে</l><r>আমি<s n="prn" /><s n="p1" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="obj" /></r></p></e>      
+      <e r="RL"><p><l>আমাদের</l><r>আমি<s n="prn" /><s n="p1" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
+      <e r="RL"><p><l>আমরা</l><r>আমি<s n="prn" /><s n="p1" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>    
+      <e r="RL"><p><l>আমাদেরকে</l><r>আমি<s n="prn" /><s n="p1" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>      
     </pardef>
 
     <pardef n="/তুমি__prn">  
