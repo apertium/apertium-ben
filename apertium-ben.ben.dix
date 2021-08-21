@@ -623,25 +623,26 @@
       <e><p><l>যে</l><r>যে<s n="prn" /><s n="rel" /><s n="infml" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>      
       <e><p><l>যাকে</l><r>যে<s n="prn" /><s n="rel" /><s n="infml" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="obj" /></r></p></e>  
       <e><p><l>যার</l><r>যে<s n="prn" /><s n="rel" /><s n="infml" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e>   
-      <e><p><l>যার কাছে</l><r>যে<s n="prn" /><s n="rel" /><s n="infml" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="loc" /></r></p></e>  
+      <e><p><l>যার<b/>কাছে</l><r>যে<s n="prn" /><s n="rel" /><s n="infml" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="loc" /></r></p></e>  
       <e><p><l>যাদের</l><r>যে<s n="prn" /><s n="rel" /><s n="infml" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>      
       <e><p><l>যাদেরকে</l><r>যে<s n="prn" /><s n="rel" /><s n="infml" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e>      
       <e><p><l>যারা</l><r>যে<s n="prn" /><s n="rel" /><s n="infml" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>  
-      <e><p><l>যাদের কাছে</l><r>যে<s n="prn" /><s n="rel" /><s n="infml" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="loc" /></r></p></e>  
+      <e><p><l>যাদের<b/>কাছে</l><r>যে<s n="prn" /><s n="rel" /><s n="infml" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="loc" /></r></p></e>  
 
       <e><p><l>যিনি</l><r>যে<s n="prn" /><s n="rel" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>    
       <e><p><l>যেনাকে</l><r>যে<s n="prn" /><s n="rel" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="obj" /></r></p></e> 
       <e><p><l>যেনার</l><r>যে<s n="prn" /><s n="rel" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e> 
-      <e><p><l>যেনার কাছে</l><r>যে<s n="prn" /><s n="rel" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="loc" /></r></p></e>      
+      <e><p><l>যেনার<b/>কাছে</l><r>যে<s n="prn" /><s n="rel" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="sg" /><s n="loc" /></r></p></e>      
       <e><p><l>যিনারা</l><r>যে<s n="prn" /><s n="rel" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>    
       <e><p><l>যিনাদেরকে</l><r>যে<s n="prn" /><s n="rel" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e> 
       <e><p><l>যিনাদের</l><r>যে<s n="prn" /><s n="rel" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e> 
-      <e><p><l>যিনাদের কাছে</l><r>যে<s n="prn" /><s n="rel" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="loc" /></r></p></e>   
+      <e><p><l>যিনাদের<b/>কাছে</l><r>যে<s n="prn" /><s n="rel" /><s n="pol" /><s n="aa" /><s n="mf" /><s n="pl" /><s n="loc" /></r></p></e>   
 
-      <e><p><l>যা</l><r>যে<s n="prn" /><s n="rel" /><s n="nn" /><s n="mf" /><s n="sp" /><s n="nom" /></r></p></e>    
+      <e><p><l>যা</l><r>যে<s n="prn" /><s n="rel" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="nom" /></r></p></e>    
       <e><p><l>যেটা</l><r>যে<s n="prn" /><s n="rel" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="obj" /></r></p></e> 
       <e><p><l>যেটাতে</l><r>যে<s n="prn" /><s n="rel" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="loc" /></r></p></e> 
       <e><p><l>যেটার</l><r>যে<s n="prn" /><s n="rel" /><s n="nn" /><s n="mf" /><s n="sg" /><s n="gen" /></r></p></e>
+      <e><p><l>যা</l><r>যে<s n="prn" /><s n="rel" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="nom" /></r></p></e>    
       <e><p><l>যেগুলো</l><r>যে<s n="prn" /><s n="rel" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="obj" /></r></p></e> 
       <e><p><l>যেগুলোতে</l><r>যে<s n="prn" /><s n="rel" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="loc" /></r></p></e> 
       <e><p><l>যেগুলোর</l><r>যে<s n="prn" /><s n="rel" /><s n="nn" /><s n="mf" /><s n="pl" /><s n="gen" /></r></p></e>
