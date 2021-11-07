@@ -1,0 +1,1624 @@
+"<আমার>"
+	"আমি"" prn pers p1 mf sg gen
+"<ব্রাদার>"
+	"ভাই" n m sg nom
+;	"ভাই" n m sg obl
+;	"ভাই" n m pl nom
+"<সাহেব>"
+	"সাহেব" n m sg nom
+;	"সাহেব" n m sg obl
+;	"সাহেব" n m pl nom
+"<আমার>"
+	"আমি" prn pers p1 sg ins
+"<পাঁচ>"
+	"পাঁচ" num
+;	"পাঁচ" n m sg nom
+;	"পাঁচ" n m sg obl
+;	"পাঁচ" n m pl nom
+"<বছর>"
+	"বছর" n m sg nom
+;	"বছর" n m sg obl
+;	"বছর" n m pl nom
+"<বিশাল>"
+	"বিশাল"
+"<এই>"
+	"হো" vbser impf p3 m pl
+"<,>"
+	"," cm
+"<তবে>"
+	"তবে" cnjcoo
+"<কেবল>"
+	"কেবল" adv
+"<তিন>"
+	"তিন" num
+"<রেটিং>"
+	"রেটিং" n m pl nom
+;	"রেটিং" n m pl obj
+"<পরবর্তী>"
+	"পরবর্তী" post
+;	"পরবর্তী" adv
+;	"এগিয়ে" n m sg obl
+;	"এগিয়ে" n m pl nom
+;	"এগিয়ে" n m pl obl
+"<।>"
+	"।" sent
+"<তারা>"
+	"এই" prn dem p3 mf pl dist erg
+"<খুব>"
+	"খুব" adv
+"<একই>"
+;	"একই" adj mfn sp
+;	"একই" adj m sg nom
+;	"একই" adj m sg obl
+;	"একই" adj m pl nom
+;	"একই" adj m pl obl
+	"একই" adj f sg nom
+;	"একই" adj f sg obl
+;	"একই" adj f pl nom
+;	"একই" adj f pl obl
+"<বয়স>"
+;	"বয়স" n f sg nom
+	"বয়স" n f sg obl
+;	"বয়স" n f pl nom
+;	"বয়স" n f pl obl
+"<মধ্যে>"
+	"মধ্যে" post
+"<পড়া>"
+	"পড়ুন" vblex tv inf nom
+;	"পড়ুন" vblex tv inf nom m
+"<শুরু করলাম>"
+	"শুরু কর" vblex tv perf m sg
+"<ছিল>"
+	"হলে" vbser impf p3 m sg
+"<যখন>"
+	"যখন" adv
+"<আমি>"
+	"আমি" prn dem p1 mf sg 
+"<শুরু করএ>"
+	"শুরু করএ" vblex tv perf m sg
+"<ছিলাম্>"
+	"অছিশ্" vbser impf p3 m sg
+"<;>"
+	";" sent
+"<কিন্তু>"
+	"কিন্তু" cnjcoo
+"<প্রশিক্ষণ>"
+	"প্রশিক্ষণ" n f sg nom
+;	"প্রশিক্ষণ" n f sg obl
+;	"প্রশিক্ষণ" n f pl nom
+;	"প্রশিক্ষণ" n f pl obl
+"<যেমন>"
+;	"যেমন" det ind pl m
+;	"যেমন" adj m sg obl
+	"যেমন" adj m pl nom
+;	"যেমন" adj m pl obl
+"<গুরুত্ব>"
+;	"গুরুত্ব" n m sg nom
+	"গুরুত্ব" n m sg obl
+;	"গুরুত্ব" n m pl nom
+;	"গুরুত্ব" n m pl obl
+"<এর>"
+	"এর" gen m pl
+"<মামলাগুলি>"
+	"বিষয়" n m sg obl
+;	"বিশয্গুলি" n m pl nom
+"<মদ্ধে>"
+	"মদ্ধে" post
+"<সে>"
+	"এই" prn dem p3 mf sg dist nom
+"<তাড়াহুড়া>"
+;	"তাড়াহুড়া" n f sg nom
+	"তাড়াহুড়া" n f sg obl
+;	"তাড়াহুড়া" n f pl nom
+;	"তাড়াহুড়া" n f pl obl
+"<থেকে>"
+	"থেকে" post
+;	"মতন্" adj m sg obl
+;	"মতন্" adj m pl nom
+;	"মতন্" adj m pl obl
+"<কাজ গ্রহণ>"
+	"কাজ নিন" vblex tv inf nom m
+"<পছন্দ>"
+	"পছন্দ" vblex tv stem
+;	"পছন্দ" n f sg nom
+;	"পছন্দ" n f sg obl
+;	"পছন্দ" n f pl nom
+;	"পছন্দ" n f pl obl
+"<না>"
+	"না" adv
+;	"না" adj mfn sp
+;	"না" n m sg nom
+;	"না" n m sg obl
+;	"না" n m pl nom
+;	"না" n m pl obl
+;	"না" adj m sg nom
+;	"না" adj m sg obl
+;	"না" adj m pl nom
+;	"না" adj m pl obl
+;	"না" adj f sg nom
+;	"না" adj f sg obl
+;	"না" adj f pl nom
+;	"না" adj f pl obl
+"<কর>"
+	"কর" vblex tv impf m pl
+"<ছিল>"
+	"আছ​" vbser impf p3 m pl
+"<।>"
+	"।" sent
+"<এই>"
+	"এই" prn dem p3 mf sg prox obl
+"<অনুভূতি>"
+	"অনুভূতি" n f sg nom
+;	"অনুভূতি" n f sg obl
+"<এর>"
+	"এর" gen f sg
+;	"এর" gen f pl
+;	"কর" vblex tv perf f sg
+;	"কর" vblex tv perf f pl
+"<ভিত্তি>"
+	"ভিত্তি" n f sg nom
+;	"ভিত্তি" n f sg obl
+"<প্রচুর>"
+	"প্রচুর" adj mfn sp
+;	"প্রচুর" adj m sg nom
+;	"প্রচুর" adj m sg obl
+;	"প্রচুর" adj m pl nom
+;	"প্রচুর" adj m pl obl
+;	"প্রচুর" adj f sg nom
+;	"প্রচুর" adj f sg obl
+;	"প্রচুর" adj f pl nom
+;	"প্রচুর" adj f pl obl
+"<শক্তিশালী>"
+	"শক্তিশালী" adj mfn sp
+;	"শক্তিশালী" vblex tv stem
+;	"শক্তিশালী" adj m sg nom
+;	"শক্তিশালী" adj m sg obl
+;	"শক্তিশালী" adj m pl nom
+;	"শক্তিশালী" adj m pl obl
+;	"শক্তিশালী" adj f sg nom
+;	"শক্তিশালী" adj f sg obl
+;	"শক্তিশালী" adj f pl nom
+;	"শক্তিশালী" adj f pl obl
+"<করা>"
+	"করা" vblex tv inf nom
+;	"করা" vblex tv inf nom m
+"<চাই>"
+	"চাই" vblex tv impf m pl
+"<ছিল>"
+	"ছিল" vbser impf p3 m pl
+"<জেই>"
+	"যে" prn rel sg obl
+"<কিন্তু>"
+	"কিন্তু" post
+;	"কিন্তু" cnjcoo
+;	"কিন্তু" n m sg nom
+;	"কিন্তু" n m sg obl
+;	"কিন্তু" n m pl nom
+"<বিলাসী>"
+;	"বিলাসী" adj mfn sp
+	"বিলাসী" adj m sg nom
+;	"বিলাসী" adj m sg obl
+;	"বিলাসী" adj m pl nom
+;	"বিলাসী" adj m pl obl
+;	"বিলাসী" adj f sg nom
+;	"বিলাসী" adj f sg obl
+;	"বিলাসী" adj f pl nom
+;	"বিলাসী" adj f pl obl
+"<প্রাসাদ>"
+	"প্রাসাদ" n m sg nom
+;	"প্রাসাদ" n m sg obl
+;	"প্রাশাদ্গুল​" n m pl nom
+"<হত্তয়া>"
+	"হত্তয়া" vblex tv stem
+"<পারত>"
+;	"পারত" vaux prs p2 sg
+	"পারত" vaux prs p3 sg
+;	"পারত" vaux perf m pl
+"<।>"
+	"।" sent
+"<এক>"
+	"এক" num
+;	"এক" det indef obl mfn sg
+"<বছর>"
+;	"বছর" n m sg nom
+	"বছর" n m sg obl
+;	"ব্ছর্গুল​" n m pl nom
+"<এর>"
+	"এর" gen m sg
+"<কাজ>"
+	"কাজ" n m sg nom;
+"<দাও>"
+;	"দাও" vblex tv prs p2 sg
+;	"দাও" vblex tv prs p2 pl
+	"দাও" vblex tv imp p2 sg
+;	"দাও" vblex tv imp p2 pl
+"<বছর>"
+;	"বছর" n m sg nom
+	"বছর" n m sg obl
+;	"বছর্গুলি" n m pl nom
+"<মদ্ধে>"
+	"মদ্ধে" post
+"<কর>"
+	"কর" vblex tv impf m pl
+"<ছিল>"
+	"ছিল" vbser impf p3 m pl
+"<।>"
+	"।" sent
+"<কখনও>"
+	"কখনও" adv
+"<->"
+	"-" guio
+"<কখনও>"
+	"কখনও" adv
+"<তিন>"
+	"তিন" num
+"<বছর>"
+	"বছর" n m sg nom
+;	"বছর" n m sg obl
+;	"বছর্গুলি" n m pl nom
+"<খুব>"
+	"খুব" adv
+"<হয়েছে>"
+	"লেগে জা" vblex iv impf m pl
+"<ছিল>"
+	"ছিল" vbser impf p3 m pl
+"<।>"
+	"।" sent
+"<ভিত্তি>"
+;	"ভিত্তি" n f sg nom
+	"ভিত্তি" n f sg obl
+"<কেবল>"
+;	"কেবল" adj mfn sp
+;	"কেবল" adj m sg nom
+;	"কেবল" adj m sg obl
+;	"কেবল" adj m pl nom
+;	"কেবল" adj m pl obl
+	"কেবল" adj f sg nom
+;	"কেবল" adj f sg obl
+;	"কেবল" adj f pl nom
+;	"কেবল" adj f pl obl
+"<শক্তিশালী>"
+;	"শক্তিশালী" n m sg obj
+	"শক্তিশালী" n m sg nom
+"<না>"
+	"না" adv
+;	"না" adj mfn sp
+;	"না" n m sg nom
+;	"না" n m sg obl
+;	"না" n m pl nom
+;	"না" n m pl obl
+;	"না" adj m sg nom
+;	"না" adj m sg obl
+;	"না" adj m pl nom
+;	"না" adj m pl obl
+;	"না" adj f sg nom
+;	"না" adj f sg obl
+;	"না" adj f pl nom
+;	"না" adj f pl obl
+"<আছ​>"
+;	"আছ" vbser imp p2 sg
+;	"আছ" vbser imp p2 pl
+;	"আছ" vbser pres p2 mf pl
+	"হঅ" vblex iv prs p2 pl
+;	"হঅ" vblex iv imp p2 sg
+;	"হঅ" vblex iv imp p2 pl
+"<,>"
+	"," cm
+"<তাই>"
+;	"তাই" adv
+	"তাই" cnjadv
+"<গৃহ>"
+	"গৃহ" n m sg nom
+;	"গৃহ" n m sg obl
+;	"গ্রিহগুলি" n m pl nom
+"<কিভাবে>"f
+	"কেরম্" det ind pl m
+;	"কিভাবে" adj m sg obl
+;	"কিভাবে" adj m pl nom
+;	"কিভাবে" adj m pl obl
+"<খাঁজছে>"
+	"খাঁজছে" adj m sg nom
+;	"খাঁজছে" adj f sg nom
+;	"খাঁজছে" adj m sg obj
+;	"খাঁজছে" adj f sg obj
+
+"<তৈরি করা>"
+;	"তৈরি করা" vblex tv prs p2 sg
+	"তৈরি করা" vblex tv prs p3 sg
+;	"তৈরি করা" vblex tv perf m pl
+"<!>"
+	"!" sent
+"<.>"
+	"." sent
+
+
+"<আমি>"
+	"আমি" prn pers p1 sg nom
+"<ছোট>"
+	"ছোট" adv
+;	"ছোট" adj mfn sp
+;	"ছোট" n m sg nom
+;	"ছোট" adj m sg nom
+;	"ছোট" adj mfn sp obl
+"<ছিল>"
+	"ছিল" vbser impf p3 m sg
+"<,>"
+	"," cm
+"<সে>"
+	"সে" prn dem p3 mf sg dist nom
+"<বিশাল>"
+	"বিশাল" adj m pl nom
+;	"বিশাল" adj f pl nom
+"<ছিল>"
+	"ছিল" vbser impf p3 m pl
+"<।>"
+	"।" sent
+"<আমার>"
+;	"আমার" np ant f sg nom
+	"আমাদের" prn pers p1 f sg gen
+"<যুগ>"
+	"যুগ" n f sg nom
+;	"যুগ" n f sg obl
+;	"যূগ্গুলি" n f pl nom
+;	"যূগ্গুলি" n f pl obl
+"<নাইন>"
+	"নাইন" num
+"<বছর>"
+;	"বছর" n m sg nom
+	"বছর" n m sg obl
+;	"ব্ছর্গুলি" n m pl nom
+"<এর>"
+	"এর" gen f sg
+;	"এর" gen f pl
+;	"এর" vblex tv perf f sg
+;	"এর" vblex tv perf f pl
+"<ছিল>"
+	"ছিল" vbser impf p3 f sg
+"<,>"
+	"," cm
+"<সে>"
+	"সে" prn dem p3 mf sg dist nom
+"<চৌদ্দ>"
+	"চৌদ্দ" num
+;	"চৌদ্দ" adj mfn sp
+;	"চৌদ্দ" adj m sg nom
+;	"চৌদ্দ" adj m sg obl
+;	"চৌদ্দ" adj m pl nom
+;	"চৌদ্দ" adj m pl obl
+;	"চৌদ্দ" adj f sg nom
+;	"চৌদ্দ" adj f sg obl
+;	"চৌদ্দ" adj f pl nom
+;	"চৌদ্দ" adj f pl obl
+"<বছর>"
+;	"বছর" n m sg nom
+	"বছর" n m sg obl
+;	"ব্ছর্গুলি" n m pl nom
+
+"<এর>"
+	"এর" gen m pl
+"<ছিল>"
+	"আছ​" vbser impf p3 m pl
+"<।>"
+	"।" sent
+"<তাদের>"
+	"এই" prn dem p3 mf pl dist dat
+"<আমার>"
+;	"আমার" np ant f sg nom
+	"আমি" prn pers p1 f sg gen
+"<তাম্বিহ>"
+;	"তাম্বিহ" n f pl nom
+;	"তাম্বিহ" n f sg nom
+;	"তাম্বিহ" n f pl obj
+	"তাম্বিহ" n f sg obj
+"<এবং>"
+	"এবং" cnjcoo
+"<নজরদারি>"
+;	"নজরদারি" n f sg nom
+	"নজরদারি" n f sg obl
+;	"নজরদারি" n f pl nom
+;	"নজরদারি" n f pl obl
+"<এর>"
+	"এর" gen m sg
+"<পুরো>"
+;	"পুরো" adj mfn sp
+	"পুরো" adj m sg nom
+;	"পুরো" adj mfn sp obl
+"<জন্ম তারিখ>"
+;	"জন্ম তারিখ" adj mfn sp
+	"জন্ম তারিখ" adj m sg nom
+;	"জন্ম তারিখ" adj m sg obl
+;	"জন্ম তারিখ" adj m pl nom
+;	"জন্ম তারিখ" adj m pl obl
+;	"জন্ম তারিখ" adj f sg nom
+;	"জন্ম তারিখ" adj f sg obl
+;	"জন্ম তারিখ" adj f pl nom
+;	"জন্ম তারিখ" adj f pl obl
+"<ঠিক>"
+	"ঠিক" n m sg nom
+;	"ঠিক" n m sg obl
+;	"ঠিক" n m pl nom
+"<ছিল>"
+	"আছ​" vbser impf p3 m sg
+"<।>"
+	"।" sent
+"<এবং>"
+	"এবং" cnjcoo
+"<আমার>"
+;	"আমার" np ant f sg nom
+	"আমি" prn pers p1 f sg gen
+"<শালীনতা>"
+	"শালীনতা" n f sg nom
+;	"শালীনতা" n f sg obl
+;	"শালীনতা" n f pl nom
+;	"শালীনতা" n f pl obl
+"<একই>"
+;	"একই" adj mfn sp
+;	"একই" adj m sg nom
+;	"একই" adj m sg obl
+;	"একই" adj m pl nom
+;	"একই" adj m pl obl
+;	"একই" adj f sg nom
+	"একই" adj f sg obl
+;	"একই" adj f pl nom
+;	"একই" adj f pl obl
+"<ভিতরে>"
+	"ভিতরে" post
+"<ছিল>"
+	"হো" vbser impf p3 f sg
+"<যে>"
+	"যে" cnjsub
+"<তাদের>"
+	"এই" prn dem p3 mf pl dist gen
+"<আদেশ্>"
+;	"আদেশ্" n m sg nom
+	"আদেশ্" n m sg obl
+;	"আদেশ্গুলো" n m pl nom
+"<প্রতি>"
+	"প্রতি" post
+"<আইন>"
+	"আইন" n m sg nom
+;	"আইন" n m sg obl
+;	"আইনগুলি" n m pl nom
+"<বোঝা>"
+	"বোঝা" vblex tv prs p1 sg
+;	"বোঝা" vblex iv prs p1 sg
+"<।>"
+	"।" sent
+"<.>"
+	"." sent
+
+
+"<সে>"
+	"এই" prn dem p3 mf sg dist nom
+"<
+প্রকৃতি>"
+	"প্রকৃতি" n m sg nom
+;	"প্রকৃতি" n m sg obl
+;	"প্রকৃতিগুল​" n m pl nom
+"<থেকে>"
+	"থেকে" post
+;	"মতন্" adj m sg obl
+;	"মতন্" adj m pl nom
+;	"মতন্" adj m pl obl
+"<বিশাল>"
+	"বিশাল" adj m pl nom
+;	"বিশাল" adj m pl obl
+	
+"<পড়াশুনা করে>"
+	"পড়াশুনা করে" adj m sg nom
+	"পড়াশুনা করে" adj m sg obl
+	"পড়াশুনা করে" adj m pl obl
+	"পড়াশুনা করে" adj m pl nom
+"<ছিল>"
+	"আছ​" vbser impf p3 m pl
+"<।>"
+	"।" sent
+"<সর্বদা>"
+	"সর্বদা" adv 
+"<বই>"
+	"বই" n f sg nom
+;	"বইগুলি" n f sg obl
+"<খোলা>"
+;	"খোলা" vblex tv prs p2 sg
+	"খোলা" vblex tv prs p3 sg
+;	"খোলা" vblex tv perf m pl
+"<বসে আছে>"
+;	"বসে আছে" vblex iv prs p2 sg
+;	"বসে আছে" vblex iv prs p3 sg
+	"বসে আছে" vblex iv perf m pl
+"<থাকে>"
+	"থাকে" vaux impf m pl
+"<এবং>"
+	"এবং" cnjcoo
+"<হতে পারে>"
+	"হতে পারে" adv
+"<মস্তিষ্ক>"
+;	"মস্তিষ্ক" n m sg nom
+	"মস্তিষ্ক" n m sg obl
+;	"মস্তিষ্ক" n m pl nom
+"<প্রতি>"
+	"প্রতি" post
+"<বিশ্রাম দিতে>"
+	"বিশ্রাম দিতে" vblex tv inf obl
+"<জন্য>"
+	"জন্য" post
+"<কখনও>"
+	"কখনও" adv
+"<কপি>"
+;	"কপি" n f sg nom
+	"কপি" n f sg obl
+"<চালু>"
+	"চালু" post
+;	"চালু" cnjcoo
+;	"চালু" n m sg nom
+;	"চালু" n m sg obl
+;	"চালু" n m pl nom
+"<,>"
+	"," cm
+"<কখনও>"
+	"কখনও" adv
+"<বই>"
+;	"বই" n f sg nom
+	"বইগুলি" n f sg obl
+"<এর>"
+	"এর" gen m pl
+"<মার্জিন>"
+	"মার্জিন" n m pl obl
+"<চালু>"
+	"চালু" post
+;	"চালু" cnjcoo
+;	"চালু" n m sg nom
+;	"চালু" n m sg obl
+;	"চালু" n m pl nom
+"<হামিংবার্ড>"
+	"হামিংবার্ড" n f pl obl
+"<,>"
+	"," cm
+"<কুকুর>"
+	"কুকুরগুলি" n m pl obl
+"<,>"
+	"," cm
+"<বিড়াল>"
+	"বিড়ালগুলি" n f pl obl
+"<এর>"
+;	"এর" gen f sg
+	"এর" gen f pl
+;	"কর" vblex tv perf f sg
+;	"কর" vblex tv perf f pl
+"<ছবিগুলো>"
+	"ছবিগুলো" n f pl nom
+"<বানান>"
+	"বানান" vblex tv perf m sg
+"<কর>"
+	"কর" vblex tv impf m pl
+"<ছিল>"
+	"আছ​" vbser impf p3 m pl
+"<।>"
+	"।" sent
+"<কখনও>"
+	"কখনও" adv
+"<->"
+	"-" guio
+"<কখনও>"
+	"কখনও" adv
+"<এক>"
+	"এক" num
+;	"এক" det indef obl mfn sg
+"<কেবল>"
+;	"কেবল" adj mfn sp
+	"কেবল" adj m sg nom
+;	"কেবল" adj m sg obl
+;	"কেবল" adj m pl nom
+;	"কেবল" adj m pl obl
+;	"কেবল" adj f sg nom
+;	"কেবল" adj f sg obl
+;	"কেবল" adj f pl nom
+;	"কেবল" adj f pl obl
+"<নাম>"
+	"নাম" n m sg nom
+;	"নাম" n m sg obl
+;	"নামগুলি" n m pl nom
+"<বা>"
+	"বা" cnjcoo
+"<শব্দ>"
+	"শব্দ" n m sg nom
+;	"শব্দ" n m sg obl
+;	"শব্দগুলি" n m pl nom
+"<বা>"
+	"বা" cnjcoo
+"<বাক্যটি>"
+	"বাক্যটি" n m sg nom
+;	"বাক্যটি" n m sg obl
+;	"বাক্যগুলি" n m pl nom
+"<দশ>"
+	"দশ" num
+"<->"
+	"-" guio
+"<বিশ>"
+	"বিশ" num
+;	"বিশ" adj mfn sp
+;	"বিশ" n m sg nom
+;	"বিশ" n m sg obl
+;	"বিশ" n m pl nom
+;	"বিশ" adj m sg nom
+;	"বিশ" adj m pl nom
+;	"বিশ" adj m pl obl
+;	"বিশ" adj f sg nom
+;	"বিশ" adj f sg obl
+;	"বিশ" adj f pl nom
+;	"বিশ" adj f pl obl
+"<বার>"
+;	"বার" n m sg nom
+;	"বার" n m sg obl
+;	"বার" n m pl nom
+	"বার" n m pl obl
+"<লিখুন>"
+	"লিখুন" vblex tv stem
+"<রাখুন>"
+	"শাখা" vblex tv impf m pl
+"<।>"
+	"।" sent
+"<কখনও>"
+	"কখনও" adv
+"<এক>"
+	"এক" num
+;	"এক" det indef obl mfn sg
+"<সিংহ>"
+;	"সিংহ" n m sg nom
+	"সিংহ" n m sg obl
+;	"সিংহ" n m pl nom
+"<প্রতি>"
+	"প্রতি" post
+"<বারংবার>"
+	"বারংবার" adv
+"<সুন্দর>"
+;	"সুন্দর" adj mfn sp
+	"সুন্দর" adj m sg nom
+;	"সুন্দর" adj m sg obl
+;	"সুন্দর" adj m pl nom
+;	"সুন্দর" adj m pl obl
+;	"সুন্দর" adj f sg nom
+;	"সুন্দর" adj f sg obl
+;	"সুন্দর" adj f pl nom
+;	"সুন্দর" adj f pl obl
+"<চিঠি>"
+;	"চিঠি" n m sg nom
+	"চিঠি" n m sg obl
+;	"চিঠি" n m pl nom
+"<ভিতরে>"
+	"ভিতরে" post
+"<ন্কাল করা>"
+	"ন্কাল করা" vblex tv impf m pl
+"<।>"
+	"।" sent
+"<কখনও>"
+	"কখনও" adv
+"<যেমন>"
+;	"এরম্" det ind sg f
+	"এরম্" det ind pl f
+;	"এটার মত" adj f sg nom
+;	"এটার মত" adj f sg obl
+;	"এটার মত" adj f pl nom
+;	"এটার মত" adj f pl obl
+"<শব্দ>"
+;	"শব্দ" n m sg nom
+;	"শব্দ" n m sg obl
+	"শব্দগুলি" n m pl nom
+"<->"
+	"-" guio
+"<রচনা করার সময়>"
+	"রচনা করা" vblex tv impf m pl
+"<,>"
+	"," cm
+"<যা>"
+	"যে" prn rel sg loc
+"<না>"
+;	"না" adv
+;	"না" adj mfn sp
+;	"না" n m sg nom
+;	"না" n m sg obl
+;	"না" n m pl nom
+	"না" n m pl obl
+;	"না" adj m sg nom
+;	"না" adj m sg obl
+;	"না" adj m pl nom
+;	"না" adj m pl obl
+;	"না" adj f sg nom
+;	"না" adj f sg obl
+;	"না" adj f pl nom
+;	"না" adj f pl obl
+"<কেউ>"
+	"কেউ" adv
+"<বুদ্ধি করতে হবে>"
+	"বুদ্ধি করতে হবে" vblex iv impf m sg
+"<,>"
+	"," cm
+"<না>"
+;	"না" adv
+;	"না" adj mfn sp
+;	"না" n m sg nom
+	"না" n m sg obl
+;	"না" n m pl nom
+;	"না" n m pl obl
+;	"না" adj m sg nom
+;	"না" adj m sg obl
+;	"না" adj m pl nom
+;	"না" adj m pl obl
+;	"না" adj f sg nom
+;	"না" adj f sg obl
+;	"না" adj f pl nom
+;	"না" adj f pl obl
+"<কেউ>"
+	"কেউ" adv
+"<সম্প্রীতি>"
+	"সম্প্রীতি" n m sg nom
+;	"সম্প্রীতি" n m sg obl
+;	"সম্প্রীতি" n m pl nom
+"<!>"
+	"!" sent
+"<দৃষ্টান্ত>"
+	"দৃষ্টান্ত" adv 
+"<এক>"
+	"এক" num
+;	"এক" det indef obl mfn sg
+"<বার>"
+	"বার" n m sg nom
+;	"বার" n m sg obl
+;	"বার" n m pl nom
+;	"বার" n m pl obl
+"<তাদের>"
+	"এই" prn dem p3 f pl dist gen
+"<কপি>"
+;	"কপি" n f sg nom
+	"কপি" n f sg obl
+"<চালু>"
+	"চালু" post
+;	"চালু" cnjcoo
+;	"চালু" n m sg nom
+;	"চালু" n m sg obl
+;	"চালু" n m pl nom
+"<আমি>"
+	"আমি" prn pers p1 sg erg
+"<এই>"
+	"এই" prn dem p3 mf sg prox nom
+"<প্রার্থনা>"
+;	"প্রার্থনা" n f sg nom
+	"প্রার্থনা" n f sg obl
+"<দেখেছি>"
+	"দেখা" vblex tv perf f sg
+;	"দেখা" vblex tv perf f pl
+"<->"
+	"-" guio
+"<বিশেষ>"
+	"বিশেষ" n m sg nom
+;	"বিশেষ" n m sg obl
+;	"বিশেষ" n m pl nom
+"<,>"
+	"," cm
+"<আমেনা>"
+	"আমেনা" n m ant
+"<,>"
+	"," cm
+"<ভাই>"
+;	"ভাই" n m pl obl
+	"ভাই" n m sg nom
+;	"ভাই" n m sg obl
+;	"ভাই" n m pl nom
+;	"ভাই" n m pl obl
+"<->"
+	"-" guio
+"<ভাই>"
+;	"ভাই" n m pl obl
+;	"ভাই" n m sg nom
+	"ভাই" n m sg obl
+;	"ভাই" n m pl nom
+;	"ভাই" n m pl obl
+"<,>"
+	"," cm
+"<হার>"
+	"হার" n f sg nom
+;	"হার" n f sg obl
+"<->"
+	"-" guio
+"<আসল>"
+;	"আসল" adv
+;	"আসল" adj mfn sp
+	"আসল" adj m sg nom
+;	"আসল" adj m sg obl
+;	"আসল" adj m pl nom
+;	"আসল" adj m pl obl
+;	"আসল" adj f sg nom
+;	"আসল" adj f sg obl
+;	"আসল" adj f pl nom
+;	"আসল" adj f pl obl
+"<,>"
+	"," cm
+"<ভাই>"
+	"ভাই" n m sg nom
+;	"ভাই" n m sg obl
+;	"ভাই" n m pl nom
+"<->"
+	"-" guio
+"<ভাই>"
+	"ভাই" n m sg nom
+;	"ভাই" n m sg obl
+;	"ভাই" n m pl nom
+"<,>"
+	"," cm
+"<রাধেশ্যম>"
+	"রাধেশ্যম" n ant m
+"<,>"
+	"," cm
+"<শ্রিয়ুত>"
+	"শ্রিয়ুত" adj m sg nom
+;	"শ্রিয়ুত" adj f sg obl
+;	"শ্রিয়ুত" adj m sg nom
+;	"শ্রিয়ুত" adj  f sg obl
+;	"শ্রিয়ুত" adj m pl nom
+;	"শ্রিয়ুত" adj f pl obl
+;	"শ্রিয়ুত" adj m pl nom
+;	"শ্রিয়ুত" adj f pl obl
+
+"<রাধেশ্যম>"
+	"রাধেশ্যম" n m ant
+"<,>"
+	"," cm
+"<এক>"
+	"এক" num
+;	"এক" det indef obl mfn sg
+"<ঘন্টার>"
+;	"বেল" n m sg obl
+	"বেল" n m pl nom
+"<দ্বারা>"
+	"দ্বারা" cnjadv
+"<->"
+	"-" guio
+"<তারপর>"
+	"তারপর" adv
+"<এক>"
+	"এক" num
+;	"এক" det indef obl mfn sg
+"<মানুষ>"
+;	"মানুষ" n m sg nom
+	"মানুষ" n m sg obl
+;	"মানুষ" n m pl nom
+"<এর>"
+	"এর" gen m sg
+"<মুখ>"
+	"মুখ" n m sg nom
+"<তৈরি>"
+	"তৈরি" vblex iv perf m sg
+"<ছিল>"
+	"হো" vbser impf p3 m sg
+"<।>"
+	"।" sent
+"<আমার আছে>"
+	"আমি" prn pers p1 sg erg
+"<প্রচেষ্টা>"
+	"প্রচেষ্টা" n f sg nom
+;	"প্রচেষ্টা" n f sg obl
+"<এর>"
+;	"এর" gen f sg
+;	"এর" gen f pl
+	"কর" vblex tv perf f sg
+;	"কর" vblex tv perf f pl
+ 
+"<যে>"
+	"যে" cnjsub
+"<এই>"
+	"এই" prn dem p3 mf sg prox obl
+"<ধাঁধা>"
+;	"ধাঁধা" n f sg nom
+	"ধাঁধা" n f sg obl
+"<এর>"
+	"এর" gen m sg
+"<কেউ>"
+	"কেউ" adv
+"<ধারণা তৈরী কর>"
+	"ধারণা তৈরী কর" vblex tv prs p1 sg
+"<;>"
+	";" sent
+"<কিন্তু>"
+	"কিন্তু" cnjcoo
+"<ব্যর্থ হয়েছে>"
+;	"ব্যর্থ হয়েছে" adj mfn sp
+	"ব্যর্থ হয়েছে" adj m sg nom
+;	"ব্যর্থ হয়েছে" adj m sg obl
+;	"ব্যর্থ হয়েছে" adj m pl nom
+;	"ব্যর্থ হয়েছে" adj m pl obl
+;	"ব্যর্থ হয়েছে" adj f sg nom
+;	"ব্যর্থ হয়েছে" adj f sg obl
+;	"ব্যর্থ হয়েছে" adj f pl nom
+;	"ব্যর্থ হয়েছে" adj f pl obl
+"<থাকলেন>"
+	"থাকা" vaux perf m sg
+"<এবং>"
+	"এবং" cnjcoo
+"<তাদের কাছ থেকে>"
+	"তাদের কাছ থেকে" prn dem p3 mf pl dist ins
+"<জিজ্ঞাসা করুন>"
+	"জিজ্ঞাসা করুন" vblex tv inf obl
+"<এর>"
+	"এর" gen m sg
+"<সাহস>"
+	"সাহস" n m sg nom
+;	"সাহস" n m sg obl
+;	"সাহস" n m pl nom
+;	"সাহস" n m pl obl
+"<না>"
+	"না" adv
+;	"না" adj mfn sp
+;	"না" n m sg nom
+;	"না" n m sg obl
+;	"না" n m pl nom
+;	"না" n m pl obl
+;	"না" adj m sg nom
+;	"না" adj m sg obl
+;	"না" adj m pl nom
+;	"না" adj m pl obl
+;	"না" adj f sg nom
+;	"না" adj f sg obl
+;	"না" adj f pl nom
+;	"না" adj f pl obl
+"<ঘটবে>"
+	"হ'ল" vblex iv perf m sg
+"<।>"
+	"।" sent
+"<সে>"
+	"এই" prn dem p3 mf sg dist nom
+"<নবম>"
+;	"নবম" adj f sg nom
+	"নবম" adj f sg obl
+;	"নবম" adj f pl nom
+;	"নবম" adj f pl obl
+"<জামায়াত>"
+;	"জামায়াত" n f sg nom
+	"জামায়াত" n f sg obl
+"<ভিতরে>"
+	"ভিতরে" post
+"<ছিল>"
+	"হো" vbser impf p3 m pl
+"<,>"
+	"," cm
+"<আমি>"
+	"আমি" prn pers p1 sg nom
+"<পঞ্চম>"
+;	"পঞ্চম" adj f sg nom
+	"পঞ্চম" adj f sg obl
+;	"পঞ্চম" adj f pl nom
+;	"পঞ্চম" adj f pl obl
+"<ভিতরে>"
+	"ভিতরে" post
+"<।>"
+	"।" sent
+"<তাদের>"
+	"এই" prn dem p3 f pl dist gen
+"<রচনা>"
+	"গঠন" n f pl obl
+"<প্রতি>"
+	"প্রতি" post
+"<বোধগম্যতা>"
+	"বোঝা" vblex tv inf nom
+;	"বোঝা" vblex tv inf nom m
+;	"বোঝা" vblex iv inf nom m 
+"<আমার>"
+	"আমি" prn pers p1 mf sg gen
+"<জন্য>"
+	"জন্য" post
+;	"জন্য" vblex tv perf m pl
+"<ছোট>"
+;	"ছোট" adv
+;	"ছোট" adj mfn sp
+;	"ছোট" n m sg nom
+	"ছোট" adj m sg nom
+;	"ছোট" adj mfn sp obl
+"<মুখ>"
+	"মুখ" n m sg nom
+;	"মুখ" n m sg obl
+;	"মুখ" n m pl nom
+"<বিশাল>"
+;	"বিশাল" adv
+;	"বিশাল" adj mfn sp
+;	"বিশাল" n m sg nom
+	"বিশাল" adj m sg nom
+;	"বিশাল" adj mfn sp obl
+"<আলাপ>"
+	"আলাপ" n f sg nom
+;	"আলাপ" n f sg obl
+"<ছিল>"
+	"আছ​" vbser impf p3 f sg
+"<।>"
+	"।" sent
+"<.>"
+	"." sent
+  
+  
+
+
+"<আমার>"
+	"আমি" prn pers p1 m sg gen
+"<হ্যাঁ>"
+;	"হ্যাঁ" n m sg obl
+	"হ্যাঁ" n m sg nom
+;	"হ্যাঁ" vblex tv stem
+;	"হ্যাঁ" vblex tv perf f sg
+;	"হ্যাঁ" vblex tv perf f pl
+"<পড়া>"
+	"পড়ুন" vblex tv inf obl
+"<ভিতরে>"
+	"ভিতরে" post
+"<একেবারে>"
+	"একেবারে" adv
+"<না>"
+	"না" adv
+;	"না" adj mfn sp
+;	"না" n m sg nom
+;	"না" n m sg obl
+;	"না" n m pl nom
+;	"না" n m pl obl
+;	"না" adj m sg nom
+;	"না" adj m sg obl
+;	"না" adj m pl nom
+;	"না" adj m pl obl
+;	"না" adj f sg nom
+;	"না" adj f sg obl
+;	"না" adj f pl nom
+;	"না" adj f pl obl
+"<মনে হয়>"
+	"দেখুন" vblex tv impf m sg
+"<ছিল>"
+	"আছ​" vbser impf p3 m sg
+"<।>"
+	"।" sent
+"<এক>"
+	"এক" num
+;	"এক" det indef obl mfn sg
+"<বেল>"
+	"বেল" n m sg nom
+"<খুব>"
+	"খুব" adv
+"<বই>"
+	"বই" n f sg nom
+;	"বই" n f sg obl
+"<সঙ্গে>"
+	"গ্রহণ করা" vblex tv gna
+"<বসা>"
+	"বসা" vblex iv inf nom m
+"<পর্বত>"
+	"পর্বত" n m sg nom
+;	"পর্বত" n m sg obl
+;	"পর্বত" n m pl nom
+"<ছিল>"
+	"হো" vbser impf p3 m sg
+"<।>"
+	"।" sent
+"<সুযোগ>"
+	"সুযোগ" n m sg nom
+"<অনুসন্ধান>"
+	"পা" vblex tv impf m pl
+"<কেবল>"
+;	"কেবল" adj mfn sp
+	"কেবল" adj m sg nom
+;	"কেবল" adj m sg obl
+;	"কেবল" adj m pl nom
+;	"কেবল" adj m pl obl
+;	"কেবল" adj f sg nom
+;	"কেবল" adj f sg obl
+;	"কেবল" adj f pl nom
+;	"কেবল" adj f pl obl
+"<ছাত্রাবাস>"
+;	"ছাত্রাবাস" n m sg nom
+	"ছাত্রাবাস" n m sg obl
+;	"ছাত্রাবাসগুলি" n m pl nom
+"<থেকে>"
+	"থেকে" post
+;	"মতন্" adj m sg obl
+;	"মতন্" adj m pl nom
+;	"মতন্" adj m pl obl
+"<বারিএ>"
+	"বারিএ" vblex tv gna
+"<ক্ষেত্র>"
+;	"ক্ষেত্র" n m sg nom
+	"ক্ষেত্র" n m sg obl
+;	"ক্ষেত্রগুলি" n m pl nom
+"<ভিতরে>"
+	"ভিতরে" post
+"<এসো>"
+	"এসো" vblex iv imp p2 sg
+"<যাওয়া>"
+	"যাওয়া" vblex iv impf m sg
+"<এবং>"
+	"এবং" cnjcoo
+"<কখনও>"
+	"কখনও" adv
+"<বার্কার>"
+	"বার্কার" n f pl nom
+;	"বার্কার" n f pl obl
+
+"<বর্ধমান>"
+	"বুম" vblex tv impf m sg
+"<,>"
+	"," cm
+"<কখনও>"
+	"কখনও" adv
+"<কাগজ>"
+;	"কাগজ" n m sg nom
+;	"কাগজ" n m sg obl
+;	"কাগজগুলি" n m pl nom
+	"কাগজগুলি" n m pl obl
+"<এর>"
+;	"এর" gen f sg
+	"এর" gen f pl
+;	"কর" vblex tv perf f sg
+;	"কর" vblex tv perf f pl
+"<প্রজাপতি>"
+	"প্রজাপতিগুলি" n f pl nom
+"<ফুঁ>"
+	"উড়ে" vblex tv impf m sg
+"<,>"
+	"," cm
+"<এবং>"
+	"এবং" cnjcoo
+"<কোথাও>"
+;	"কোথাও" adv
+	"কোথাও" cnjadv
+"<কেউ>"
+	"কেউ" adv
+"<অংশীদার>"
+	"অংশীদার" n m sg nom
+;	"অংশীদার" n m sg obl
+;	"অংশীদার" n m pl nom
+ ‍
+"<কারখানাটি>"
+	"কারখানাটি" vblex tv stem
+;	"কারখানাটি" n f sg nom
+;	"কারখানাটি" n f sg obl
+"<সর্বস্বান্ত>"
+	"যাওয়া" vblex iv perf m sg
+"<তাই>"
+;	"তাই" adv
+	"তাই" cnjadv
+"<জিজ্ঞাসা করা>"
+	"জিজ্ঞাসা করুন" vblex tv inf nom
+;	"জিজ্ঞাসা করুন" vblex tv inf nom m
+"<কেবল>"
+	"কেবল" adj mfn sp
+;	"কেবল" adj m sg nom
+;	"কেবল" adj m sg obl
+;	"কেবল" adj m pl nom
+;	"কেবল" adj m pl obl
+;	"কেবল" adj f sg nom
+;	"কেবল" adj f sg obl
+;	"কেবল" adj f pl nom
+;	"কেবল" adj f pl obl
+"<কি>"
+	"কি" prn itg sg aa nom
+;	"কি" prn itg pl aa nom
+;	"কি" prn itg sp aa nom
+"<কখনও>"
+	"কখনও" adv
+"<সীমানা প্রাচীর>"
+	"সীমানা প্রাচীর" n f sg nom
+;	"সীমানা প্রাচীর" n f sg obl
+"<চালু>"
+	"চালু" post
+;	"চালু" cnjcoo
+;	"চালু" n m sg nom
+;	"চালু" n m sg obl
+;	"চালু" n m pl nom
+"<উপরে উঠেছিল>"
+	"আরোহী" vblex tv gna
+"<নীচে>"
+	"নীচে" post
+;	"নীচে" adv
+;	"নীচে" n m sg obl
+;	"নীচে" n m pl nom
+"<লাফ>"
+	"লাফ" vblex iv stem
+;	"লাফ" n f sg nom
+;	"লাফ" n f sg obl
+"<হয়>"
+;	"হয়" vaux prs p2 sg
+	"হয়" vaux prs p3 sg
+;	"হয়" vaux perf m pl
+"<হু>"
+	"আছো" vbser pres p3 mf pl
+;	"আছো" vbser pres p1 mf pl
+"<,>"
+	"," cm
+"<কখনও>"
+	"কখনও" adv
+"<ফটক>"
+	"ফটক" n m sg nom
+;	"ফটক" n m sg obl
+;	"ফটক" n m pl nom
+"<চালু>"
+	"চালু" post
+;	"চালু" cnjcoo
+;	"চালু" n m sg nom
+;	"চালু" n m sg obl
+;	"চালু" n m pl nom
+"<অশ্বচালনা>"
+;	"অশ্বচালনা" adv
+;	"অশ্বচালনা" n m sg nom
+	"অশ্বচালনা" n m sg obl
+;	"অশ্বচালনা" n m pl nom
+"<,>"
+	"," cm
+"<তার>"
+	"এই" prn dem p3 mf sg dist dat
+"<পিছনে পিছনে দৌড়াও>"
+	"পিছনে পিছনে হাঁটা" vblex tv impf m pl
+"<হয়েছে>"
+;	"আছো" vbser imp p2 frm pl
+;	"হ'ল" vblex iv prs p3 sg
+;	"হ'ল" vblex iv prs p3 pl
+	"হ'ল" vblex iv prs p1 pl
+;	"হ'ল" vblex iv perf m pl
+;	"হ'ল" vblex iv imp p2 frm pl
+"<মোটরগাড়ি>"
+;	"মোটরগাড়ি" n f sg nom
+	"মোটরগাড়ি" n f sg obl
+"<এর>"
+	"এর" gen m sg
+"<উপভোগ করেছেন>"
+	"উপভোগ করেছেন" vblex tv stem
+;	"উপভোগ করেছেন" vblex tv imp p2 pl
+"<হয়>"
+;	"হয়" vaux prs p2 sg
+	"হয়" vaux prs p3 sg
+;	"হয়" vaux perf m pl
+"<হু>"
+	"আছো" vbser pres p3 mf pl
+;	"আছো" vbser pres p1 mf pl
+"<।>"
+	"।" sent
+"<কিন্তু>"
+	"কিন্তু" cnjcoo
+"<কক্ষ>"
+	"কক্ষ" n m sg obl
+;	"কক্ষ" n m pl nom
+"<ভিতরে>"
+	"ভিতরে" post
+"<আসো>"
+	"এসো" vblex iv impf m pl
+"<কেবল>"
+;	"কেবল" adj mfn sp
+	"কেবল" adj m sg nom
+;	"কেবল" adj m sg obl
+;	"কেবল" adj m pl nom
+;	"কেবল" adj m pl obl
+;	"কেবল" adj f sg nom
+;	"কেবল" adj f sg obl
+;	"কেবল" adj f pl nom
+;	"কেবল" adj f pl obl
+"<ভাই>"
+	"ভাই" n m sg nom
+;	"ভাই" n m sg obl
+;	"ভাই" n m pl nom
+"<স্যার>"
+;	"স্যার" n m sg nom
+	"স্যার" n m sg obl
+;	"স্যার" n m pl nom
+"<এর>"
+	"এর" gen m sg
+"<রুদ্র>"
+;	"রুদ্র" adj mfn sp
+;	"রুদ্র" adj m sg nom
+	"রুদ্র" adj m sg obl
+;	"রুদ্র" adj m pl nom
+;	"রুদ্র" adj m pl obl
+;	"রুদ্র" adj f sg nom
+;	"রুদ্র" adj f sg obl
+;	"রুদ্র" adj f pl nom
+;	"রুদ্র" adj f pl obl
+"<ফর্ম>"
+;	"ফর্ম" n m sg nom
+	"ফর্ম" n m sg obl
+;	"ফর্ম" n m pl nom
+;	"ফর্ম" n m pl obl
+"<দেখার পরে>"
+	"দেখা" vblex tv gna
+"<জীবন>"
+	"জীবন" n m sg nom
+;	"জীবন" n m sg obl
+;	"জীবন" n m pl nom
+"<শুকানো>"
+	"শুকানো" vblex iv impf m pl
+"<।>"
+	"।" sent
+"<তাদের>"
+	"তাদের" prn dem p3 m pl dist gen
+"<প্রথম>"
+	"প্রথম" num ord m
+"<প্রশ্ন>"
+	"প্রশ্ন" n m sg nom
+;	"প্রশ্ন" n m sg obl
+;	"প্রশ্ন" n m pl nom
+"<হবে>"
+;	"আছো" vbser impf m sg
+	"আছো" vblex iv impf m sg
+"<->"
+	"-" guio
+ ‘
+"<কোথায়>"
+	"কোথায়" adv itg
+"<ছিল>"
+	"আছো" vbser impf p3 m pl
+"<?>"
+	"?" sent
+‘ 
+"<সর্বদা>"
+	"সর্বদা" adv
+"<শুধু এটাই>"
+	"শুধু এটাই" adj mfn sp
+;	"শুধু এটাই" adj m sg nom
+;	"শুধু এটাই" adj m sg obl
+;	"শুধু এটাই" adj m pl nom
+;	"শুধু এটাই" adj m pl obl
+;	"শুধু এটাই" adj f sg nom
+;	"শুধু এটাই" adj f sg obl
+;	"শুধু এটাই" adj f pl nom
+;	"শুধু এটাই" adj f pl obl
+"<প্রশ্ন>"
+	"প্রশ্ন" n m sg nom
+;	"প্রশ্ন" n m sg obl
+;	"প্রশ্ন" n m pl nom
+"<,>"
+	"," cm
+"<একই>"
+	"একই" adj mfn sp
+;	"একই" adj m sg nom
+;	"একই" adj m sg obl
+;	"একই" adj m pl nom
+;	"একই" adj m pl obl
+;	"একই" adj f sg nom
+;	"একই" adj f sg obl
+;	"একই" adj f pl nom
+;	"একই" adj f pl obl
+"<শব্দ>"
+;	"শব্দ" n f sg nom
+	"শব্দ" n f sg obl
+"<ভিতরে>"
+	"ভিতরে" post
+"<জিজ্ঞাসা>"
+	"জিজ্ঞাসা" vblex tv perf m sg
+"<যাওয়া>"
+	"যাওয়া" vblex iv impf m sg
+"<ছিল>"
+	"ছিল" vbser impf p3 m sg
+"<এবং>"
+	"এবং" cnjcoo
+"<এটি>"
+	"এই" prn dem p3 m sg prox gen
+"<উত্তর>"
+	"উত্তর" n m sg nom
+;	"উত্তর" n m sg obl
+;	"উত্তরগুলি" n m pl nom
+"<আমার>"
+	"আমি" prn pers p1 mf sg gen
+"<কাছে>"
+	"কাছে" adv
+"<কেবল্>"
+	"কেবল্" adv
+"<নিরবতা>"
+;	"নিরবতা" adj mfn sp
+	"নিরবতা" n m sg nom
+;	"নিরবতা" n m sg obl
+;	"নিরবতা" n m pl nom
+;	"নিরবতা" n m pl obl
+;	"নিরবতা" adj m sg nom
+;	"নিরবতা" adj m sg obl
+;	"নিরবতা" adj m pl nom
+;	"নিরবতা" adj m pl obl
+;	"নিরবতা" adj f sg nom
+;	"নিরবতা" adj f sg obl
+;	"নিরবতা" adj f pl nom
+;	"নিরবতা" adj f pl obl
+"<ছিল>"
+	"আছো" vbser impf p3 m sg
+"<।>"
+	"।" sent
+"<না>"
+	"না" adv
+;	"না" adj mfn sp
+;	"না" n m sg nom
+;	"না" n m sg obl
+;	"না" n m pl nom
+;	"না" n m pl obl
+;	"না" adj m sg nom
+;	"না" adj m sg obl
+;	"না" adj m pl nom
+;	"না" adj m pl obl
+;	"না" adj f sg nom
+;	"না" adj f sg obl
+;	"না" adj f pl nom
+;	"না" adj f pl obl
+"<জানে>"
+	"যাওয়া" vblex iv inf obl
+;	"জীবন" vblex tv prs p2 sg
+;	"জীবন" vblex tv prs p3 sg
+;	"জীবন" vblex tv perf m pl
+"<মুখ>"
+;	"মুখ" n m sg nom
+	"মুখ" n m sg obl
+;	"মুখ" n m pl nom
+"<থেকে>"
+	"থেকে" post
+;	"সা" adj m sg obl
+;	"সা" adj m pl nom
+;	"সা" adj m pl obl
+"<এই>"
+	"এই" prn dem p3 mf sg prox nom
+"<আলাপ>"
+	"আলাপ" n f sg nom
+;	"আলাপ" n f sg obl
+"<কেন>"
+	"কেন" adv itg
+"<না>"
+;	"না" adv
+;	"না" adj mfn sp
+;	"না" n m sg nom
+	"না" n m sg obl
+;	"না" n m pl nom
+;	"না" n m pl obl
+;	"না" adj m sg nom
+;	"না" adj m sg obl
+;	"না" adj m pl nom
+;	"না" adj m pl obl
+;	"না" adj f sg nom
+;	"না" adj f sg obl
+;	"না" adj f pl nom
+;	"না" adj f pl obl
+"<নির্গত হয়>"
+	"বের​" vblex tv impf f sg
+;	"বের​" vblex tv impf f pl
+"<যে>"
+	"যে" cnjsub
+"<ঠিক>"
+	"ঠিক" adv
+"<বাইরের>"
+	"বাইরের" adv
+"<খেলা>"
+	"খেলা" vblex tv stem
+;	"খেলা" n m sg nom
+;	"খেলা" n m sg obl
+;	"খেলা" n m pl nom
+"<থাকলেন>"
+	"থাকলেন" vaux perf m sg
+"<ছিল>"
+	"আছে" vbser impf p3 m sg
+"<।>"
+	"।" sent
+"<আমার>"
+	"আমি" prn pers p1 m sg gen
+"<নিরবতা>"
+;	"নিরবতা" adj mfn sp
+	"নিরবতা" n m sg nom
+;	"নিরবতা" n m sg obl
+;	"নিরবতা" n m pl nom
+;	"নিরবতা" n m pl obl
+;	"নিরবতা" adj m sg nom
+;	"নিরবতা" adj m sg obl
+;	"নিরবতা" adj m pl nom
+;	"নিরবতা" adj m pl obl
+;	"নিরবতা" adj f sg nom
+;	"নিরবতা" adj f sg obl
+;	"নিরবতা" adj f pl nom
+;	"নিরবতা" adj f pl obl
+"<বলবে>"
+	"বলবে" vblex tv impf m sg
+"<ছিল>"
+	"আছে" vbser impf p3 m sg
+"<যে>"
+	"যে" cnjsub
+"<আমার কাছে>"
+	"আমি" prn pers p1 sg dat
+"<আমাদের>"
+;	"আমাদের" vblex tv stem
+	"আমাদের" n m sg nom
+;	"উপরে" prn pers p1 m pos sg
+;	"আমাদের" vblex tv imp p2 pl
+"<অপরাধ>"
+;	"অপরাধ" n m sg nom
+	"অপরাধ" n m sg obl
+;	"অপরাধ" n m pl nom
+"<গ্রহণ করুন>"
+	"গ্রহণ করুন" n m sg nom
+;	"গ্রহণ করুন" n m sg obl
+;	"গ্রহণ করুন" n m pl nom
+"<হয়>"
+;	"আছে" vbser pres m pl nom
+;	"আছে" vbser pres p2 mf sg
+	"আছে" vbser pres p3 mf sg
+"<এবং>"
+	"এবং" cnjcoo
+"<ভাই>"
+	"ভাই" n m sg nom
+;	"ভাই" n m sg obl
+;	"ভাই" n m pl nom
+"<স্যার>"
+;	"স্যার" n m sg nom
+	"স্যার" n m sg obl
+;	"স্যার" n m pl nom
+"<জন্য>"
+	"জন্য" post
+"<এর>"
+	"এই" prn dem p3 mf sg prox gen
+"<এর সাথে>"
+	"এর সাথে" post
+"<এবং>"
+	"এবং" cnjcoo
+"<কেউ>"
+	"কেউ" adv
+"<চিকিত্সা>"
+	"চিকিত্সা" n m sg nom
+;	"চিকিত্সা" n m sg obl
+;	"চিকিত্সা" n m pl nom
+;	"চিকিত্সা" n m pl obl
+"<না>"
+;	"না" adv
+;	"না" adj mfn sp
+	"না" n m sg nom
+;	"না" n m sg obl
+;	"না" n m pl nom
+;	"না" n m pl obl
+;	"না" adj m sg nom
+;	"না" adj m sg obl
+;	"না" adj m pl nom
+;	"না" adj m pl obl
+;	"না" adj f sg nom
+;	"না" adj f sg obl
+;	"না" adj f pl nom
+;	"না" adj f pl obl
+"<ছিল>"
+	"আছে" vbser impf p3 m sg
+"<যে>"
+	"যে" cnjsub
+"<ভালবাসা>"
+	"ভালবাসা" n m sg nom
+;	"ভালবাসা" n m sg obl
+;	"ভালবাসাগুল​" n m pl nom
+"<এবং>"
+	"এবং" cnjcoo
+"<ক্রোধ>"
+;	"ক্রোধ" n m sg nom
+	"ক্রোধ" n m sg obl
+;	"ক্রোধ" n m pl nom
+;	"ক্রোধ" n m pl obl
+"<থেকে>"
+	"থেকে" post
+;	"থেকে" adj m sg obl
+;	"মতন্" adj m pl nom
+;	"মতন্" adj m pl obl
+"<সম্মেলন>"
+	"কারখানাটি" vblex tv prs p2 sg
+;	"কারখানাটি" vblex tv prs p3 sg
+;	"কারখানাটি" vblex tv perf m pl
+"<হয়েছে>"
+;	"আছ​" vbser imp p2 frm pl
+;	"আছ​" vblex iv prs p3 sg
+;	"আছ​" vblex iv prs p3 pl
+;	"আছ​" vblex iv prs p1 pl
+	"আছ​" vblex iv perf m pl
+;	"আছ​" vblex iv imp p2 frm pl
+"<শব্দ গুলো>"
+	"শব্দ" n m pl obl
+"<ভিতরে>"
+	"ভিতরে" post
+"<আমার>"
+	"আমি" prn pers p1 m sg gen
+"<আতিথেয়তা>"
+;	"আতিথেয়তা" n m sg nom
+	"আতিথেয়তা" n m sg obl
+;	"আতিথেয়তা" n m pl nom
+;	"আতিথেয়তা" n m pl obl
+"<কর>"
+	"কর" vblex tv prs p3 pl
+;	"কর" vblex tv prs p1 pl
+"<।>"
+	"।" sent
+"<.>"
+	"." sent
+
+
